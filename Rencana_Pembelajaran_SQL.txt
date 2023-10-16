@@ -1,0 +1,5 @@
+Pengenalan SQL dengan menggunakan Google colab
+
+Melakukan Persiapan Command SQL
+
+Membuat database & Mengupload Database yang sudah ada
