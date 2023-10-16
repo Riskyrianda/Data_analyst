@@ -9,4 +9,8 @@ Create +
 
 - Mengupload Database yang sudah ada
 
+Update +
+- Menambahkan Value pada nilai kosong
 
+
+- Mengubah nilai yang sudah ada
