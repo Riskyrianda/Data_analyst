@@ -2,4 +2,11 @@ Pengenalan SQL dengan menggunakan Google colab
 
 Melakukan Persiapan Command SQL
 
-Membuat database & Mengupload Database yang sudah ada
+
+==================== Melakukan CRUD Sederhana ===================
+Create +
+- Membuat database baru
+
+- Mengupload Database yang sudah ada
+
+
