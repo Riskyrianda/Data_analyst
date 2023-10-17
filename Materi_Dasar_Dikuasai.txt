@@ -1,0 +1,7 @@
+1. Dasar Pengenalan Teori Dasar Data analyst
+
+2. Dasar Penggunaan dan Pengolahan Data with Excel/Spreadsheet
+
+3. Dasar Penggunaan dan Pengolahan Data with SQL (Structured Query Language)
+
+4. Dasar Penggunaan dan Pengolahan Data with Python
