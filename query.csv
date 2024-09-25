@@ -1,0 +1,454 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-19T16:14:16.863Z,0.8399,98.8111,83.643,4.9,mb,57,138,1.845,0.9,us,us6000nt31,2024-09-19T16:32:32.040Z,"78 km SW of Padangsidempuan, Indonesia",earthquake,8.05,5.941,0.057,96,reviewed,us,us
+2024-09-14T21:37:37.583Z,1.8996,99.0849,127.937,5.1,mb,111,47,0.805,1.06,us,us7000ndur,2024-09-15T06:12:46.814Z,"38 km ENE of Sibolga, Indonesia",earthquake,6.97,5.393,0.053,117,reviewed,us,us
+2024-08-22T00:00:48.544Z,1.267,99.0434,117.197,4.5,mb,68,50,1.422,0.57,us,us7000n8kp,2024-09-19T02:22:18.040Z,"28 km WSW of Padangsidempuan, Indonesia",earthquake,6.37,6.405,0.076,50,reviewed,us,us
+2024-08-19T05:50:26.269Z,2.3844,99.0347,148.019,4.3,mb,45,66,0.327,0.41,us,us7000n7vm,2024-09-19T10:05:51.040Z,"32 km SSE of Parapat, Indonesia",earthquake,8.65,4.612,0.105,26,reviewed,us,us
+2024-08-17T12:38:30.959Z,-2.1414,102.4067,223.587,4,mb,30,63,2.271,0.84,us,us7000ncuk,2024-09-11T07:25:05.040Z,"78 km SSE of Muara Bungo, Indonesia",earthquake,7.47,7.631,0.108,23,reviewed,us,us
+2024-08-16T00:22:43.593Z,0.8914,97.0203,10,4.4,mb,32,95,0.69,0.88,us,us7000n7bg,2024-09-12T03:24:07.040Z,"79 km WSW of Gunungsitoli, Indonesia",earthquake,3.57,1.896,0.149,13,reviewed,us,us
+2024-08-16T00:17:19.744Z,0.8498,97.0161,10,4.5,mb,36,90,0.719,0.87,us,us7000n7bq,2024-09-12T03:19:00.040Z,"82 km SW of Gunungsitoli, Indonesia",earthquake,2.7,1.841,0.14,15,reviewed,us,us
+2024-08-13T21:27:50.839Z,-2.1045,100.7159,73.821,4.7,mb,61,127,3.166,0.58,us,us6000njxr,2024-09-18T22:34:07.040Z,"75 km W of Sungai Penuh, Indonesia",earthquake,7.47,7.03,0.089,38,reviewed,us,us
+2024-08-10T20:03:17.629Z,0.6239,98.8387,80.913,4.4,mb,30,198,2.058,0.59,us,us6000njed,2024-09-12T00:24:50.040Z,"96 km SSW of Padangsidempuan, Indonesia",earthquake,10.51,9.005,0.143,15,reviewed,us,us
+2024-07-31T19:27:43.664Z,-2.7571,102.5208,194.23,4.1,mb,17,144,1.651,0.36,us,us7000n7f1,2024-08-18T20:22:17.040Z,"70 km NNW of Lubuklinggau, Indonesia",earthquake,12.03,10.248,0.214,6,reviewed,us,us
+2024-07-23T03:10:14.146Z,-1.5967,99.5882,35,4.9,mb,109,36,3.514,0.58,us,us6000nepv,2024-08-22T03:00:18.040Z,"47 km N of Tuapejat, Indonesia",earthquake,8.29,1.821,0.065,75,reviewed,us,us
+2024-07-20T12:05:04.828Z,0.1,96.4867,10,5.1,mww,111,34,1.617,0.73,us,us7000n0gn,2024-08-07T09:36:03.139Z,"155 km WSW of Teluk Dalam, Indonesia",earthquake,7.92,1.736,0.086,13,reviewed,us,us
+2024-07-16T02:53:09.617Z,-4.1759,102.0879,71.708,4.9,mb,61,62,0.885,0.69,us,us7000mzh0,2024-07-28T21:57:37.040Z,"45 km SSW of Bengkulu, Indonesia",earthquake,7.96,4.324,0.065,74,reviewed,us,us
+2024-06-28T16:29:46.139Z,-3.4353,101.6325,72.568,4.5,mb,38,182,1.608,0.66,us,us6000n8z5,2024-09-04T21:57:43.040Z,"81 km WNW of Bengkulu, Indonesia",earthquake,10.04,8.743,0.108,25,reviewed,us,us
+2024-06-19T19:27:46.084Z,-3.5909,99.508,10,4.6,mb,90,69,3.523,0.7,us,us7000mtgv,2024-08-30T18:17:08.040Z,"173 km S of Tuapejat, Indonesia",earthquake,5.67,1.804,0.071,59,reviewed,us,us
+2024-06-14T05:39:43.860Z,-1.8879,100.3445,61.34,4.8,mb,48,132,3.582,0.77,us,us7000msbe,2024-08-23T18:03:55.040Z,"85 km E of Tuapejat, Indonesia",earthquake,6.07,8.102,0.086,42,reviewed,us,us
+2024-06-11T08:07:20.796Z,0.8589,97.7622,40.995,4.6,mb,46,72,0.48,0.79,us,us7000mrnk,2024-08-23T18:03:19.040Z,"31 km N of Teluk Dalam, Indonesia",earthquake,8.23,5.875,0.105,27,reviewed,us,us
+2024-06-05T18:01:52.043Z,-1.2647,97.5262,10,4.3,mb,19,212,2.552,0.49,us,us7000mryn,2024-08-16T21:59:25.040Z,"205 km S of Teluk Dalam, Indonesia",earthquake,10.32,1.951,0.188,8,reviewed,us,us
+2024-06-05T11:16:14.005Z,0.4195,98.5655,65.051,5.1,mww,128,111,1.323,0.69,us,us7000mqgm,2024-08-16T21:59:22.040Z,"86 km ESE of Teluk Dalam, Indonesia",earthquake,7.63,6.526,0.075,17,reviewed,us,us
+2024-06-05T06:19:41.587Z,-3.5702,100.7411,10,5,mb,78,64,2.345,1.15,us,us7000mqf7,2024-08-16T21:59:21.040Z,"171 km W of Bengkulu, Indonesia",earthquake,8.75,0.983,0.07,66,reviewed,us,us
+2024-06-05T02:20:27.145Z,-3.6756,100.6221,19,5.5,mww,122,35,2.425,0.54,us,us7000mqdw,2024-08-16T21:59:21.040Z,"183 km W of Bengkulu, Indonesia",earthquake,7.46,1.695,0.075,17,reviewed,us,us
+2024-06-04T04:58:42.528Z,-2.3161,100.5703,39.244,4.4,mb,21,155,3.13,0.59,us,us7000mrqn,2024-08-16T21:59:21.040Z,"95 km WSW of Sungai Penuh, Indonesia",earthquake,11.32,8.272,0.149,13,reviewed,us,us
+2024-06-03T10:36:55.749Z,-2.1862,100.9237,93.292,4.3,mb,28,175,2.963,0.58,us,us7000mrif,2024-08-16T21:59:25.040Z,"53 km WSW of Sungai Penuh, Indonesia",earthquake,8.06,7.788,0.177,9,reviewed,us,us
+2024-06-02T19:27:22.713Z,-3.1404,102.8632,204.928,4.2,mb,40,64,1.215,0.54,us,us7000mppf,2024-08-06T20:32:50.040Z,"17 km N of Lubuklinggau, Indonesia",earthquake,9.59,7.108,0.101,27,reviewed,us,us
+2024-06-01T21:22:46.134Z,-4.0474,101.045,10,4,mb,16,206,1.931,0.54,us,us7000mqz1,2024-08-06T20:32:52.040Z,"138 km WSW of Bengkulu, Indonesia",earthquake,8.8,1.786,0.212,6,reviewed,us,us
+2024-05-30T20:08:17.423Z,1.9421,99.0285,132.193,4.2,mb,38,98,1.585,0.5,us,us7000mp32,2024-08-06T20:32:48.040Z,"35 km NE of Sibolga, Indonesia",earthquake,7.33,8.543,0.108,24,reviewed,us,us
+2024-05-30T09:35:54.586Z,-3.8294,101.4887,46.458,4.8,mb,57,131,1.555,1.06,us,us7000mnyf,2024-08-06T20:32:48.040Z,"86 km W of Bengkulu, Indonesia",earthquake,8.29,6.685,0.088,40,reviewed,us,us
+2024-05-24T03:17:31.053Z,0.7813,100.0557,198.646,4.1,mb,26,131,2.211,0.56,us,us7000mp6h,2024-08-06T02:09:35.040Z,"109 km SE of Padangsidempuan, Indonesia",earthquake,8.8,7.202,0.197,8,reviewed,us,us
+2024-05-23T23:25:13.007Z,-3.8331,101.7888,63.19,4.5,mb,50,101,1.276,0.55,us,us6000n0li,2024-08-06T02:09:48.040Z,"53 km W of Bengkulu, Indonesia",earthquake,7.63,6.563,0.099,30,reviewed,us,us
+2024-05-20T01:33:44.505Z,-0.4866,96.928,10,4.2,mb,26,115,1.893,0.51,us,us6000n1a1,2024-08-06T02:10:17.040Z,"152 km SW of Teluk Dalam, Indonesia",earthquake,5.13,1.895,0.159,11,reviewed,us,us
+2024-05-17T00:20:56.836Z,-3.3737,101.9303,110.347,4.4,mb,18,182,1.417,0.51,us,us6000n0hj,2024-07-26T23:58:10.040Z,"60 km NW of Bengkulu, Indonesia",earthquake,11.55,9.312,0.179,9,reviewed,us,us
+2024-05-14T15:36:36.693Z,-2.7214,101.6703,10,4.3,mb,24,134,2.073,1.02,us,us6000n02m,2024-07-26T23:58:08.040Z,"79 km SSE of Sungai Penuh, Indonesia",earthquake,6.01,1.901,0.201,9,reviewed,us,us
+2024-05-10T15:20:47.225Z,-3.5015,101.5725,57.076,4.9,mb,52,61,1.622,0.94,us,us6000mxrs,2024-07-20T22:20:06.040Z,"83 km WNW of Bengkulu, Indonesia",earthquake,8.91,5.909,0.087,46,reviewed,us,us
+2024-05-05T06:49:00.605Z,-2.1168,100.5858,65.742,4.9,mb,42,179,3.25,0.56,us,us6000mwfd,2024-07-15T03:57:54.040Z,"89 km W of Sungai Penuh, Indonesia",earthquake,9.57,8.314,0.096,34,reviewed,us,us
+2024-05-03T17:06:19.355Z,0.1106,96.7685,10,4.4,mb,22,191,1.434,0.86,us,us6000mxia,2024-07-15T03:58:09.040Z,"126 km WSW of Teluk Dalam, Indonesia",earthquake,4.1,1.927,0.19,8,reviewed,us,us
+2024-04-29T13:29:47.764Z,1.694,97.0405,31.015,4.6,mb,58,170,0.66,0.59,us,us6000muvz,2024-07-15T03:58:56.040Z,"78 km NW of Gunungsitoli, Indonesia",earthquake,4.61,5.46,0.086,40,reviewed,us,us
+2024-04-25T04:26:34.551Z,-2.8826,100.0292,23.585,4.8,mb,47,181,3.269,0.65,us,us6000mtlj,2024-07-02T22:12:20.040Z,"106 km SSE of Tuapejat, Indonesia",earthquake,4.71,6.338,0.105,28,reviewed,us,us
+2024-04-24T07:01:31.809Z,1.0183,98.7279,75.566,4.4,mb,31,63,1.186,1.1,us,us6000mvsq,2024-07-02T22:12:40.040Z,"72 km WSW of Padangsidempuan, Indonesia",earthquake,7.62,6.551,0.148,14,reviewed,us,us
+2024-04-22T16:30:45.798Z,0.9268,98.8196,84.287,4.5,mb,44,144,1.299,0.58,us,us6000mszn,2024-07-02T22:12:31.040Z,"70 km SW of Padangsidempuan, Indonesia",earthquake,5.06,8.006,0.107,26,reviewed,us,us
+2024-04-22T06:06:06.276Z,-2.0882,100.5671,70.955,4.7,mb,74,71,3.283,0.38,us,us7000mds7,2024-07-02T22:12:25.040Z,"91 km W of Sungai Penuh, Indonesia",earthquake,8.42,6.809,0.071,61,reviewed,us,us
+2024-04-19T19:27:51.183Z,-0.7813,99.1417,39.055,4.5,mb,57,82,3.459,0.67,us,us7000md9u,2024-06-25T21:03:09.040Z,"110 km W of Pariaman, Indonesia",earthquake,9.04,6.29,0.093,37,reviewed,us,us
+2024-04-13T17:19:14.458Z,-3.256,102.957,172.991,4.1,mb,31,61,1.098,0.72,us,us7000md80,2024-06-17T02:15:26.040Z,"11 km ENE of Lubuklinggau, Indonesia",earthquake,7.81,5.875,0.126,19,reviewed,us,us
+2024-04-07T13:40:05.588Z,-2.6673,102.2183,186.235,4.1,mb,18,153,1.836,0.81,us,us7000mcgk,2024-06-12T21:52:00.040Z,"94 km NNW of Curup, Indonesia",earthquake,12.16,11.552,0.184,8,reviewed,us,us
+2024-04-05T16:13:20.733Z,0.5402,98.5578,57.402,4.8,mb,54,157,1.241,0.83,us,us7000ma7n,2024-06-12T21:51:54.040Z,"84 km E of Teluk Dalam, Indonesia",earthquake,8.65,7.55,0.07,64,reviewed,us,us
+2024-04-02T02:21:57.284Z,1.9295,98.9475,124.273,4.4,mb,13,206,0.76,0.16,us,us7000mb02,2024-06-12T21:51:57.040Z,"27 km NE of Sibolga, Indonesia",earthquake,6.77,5.936,0.268,4,reviewed,us,us
+2024-03-28T05:08:18.051Z,1.7224,97.4689,40.375,4.4,mb,27,83,0.429,1.16,us,us7000m9nu,2024-06-01T21:55:51.040Z,"50 km NNW of Gunungsitoli, Indonesia",earthquake,9.37,7.498,0.138,15,reviewed,us,us
+2024-03-25T01:59:46.088Z,1.104,98.9002,95.408,4,mb,19,173,1.58,0.57,us,us7000m8kw,2024-06-01T21:55:48.040Z,"51 km SW of Padangsidempuan, Indonesia",earthquake,12.67,9.419,0.196,7,reviewed,us,us
+2024-03-22T11:39:49.968Z,-0.6262,99.1304,40.849,4.5,mb,41,151,3.305,0.87,us,us7000m89r,2024-05-27T14:19:24.040Z,"110 km W of Pariaman, Indonesia",earthquake,11.71,6.384,0.118,21,reviewed,us,us
+2024-03-20T19:15:03.167Z,0.6505,97.3219,25.513,4.1,mb,16,171,0.697,0.77,us,us7000m7xp,2024-05-27T14:19:23.040Z,"54 km W of Teluk Dalam, Indonesia",earthquake,11.93,7.448,0.213,7,reviewed,us,us
+2024-03-20T08:24:57.931Z,-2.0189,100.4628,67.702,5,mb,92,38,3.406,0.85,us,us6000mjy1,2024-05-27T14:19:20.040Z,"97 km E of Tuapejat, Indonesia",earthquake,7.34,4.856,0.055,104,reviewed,us,us
+2024-03-13T09:34:19.316Z,-3.8292,101.774,61.252,4.3,mb,18,183,1.291,0.76,us,us6000mjst,2024-05-18T21:23:55.040Z,"54 km W of Bengkulu, Indonesia",earthquake,10.5,9.55,0.188,8,reviewed,us,us
+2024-03-12T20:48:06.540Z,-0.1934,96.9602,19.154,4.4,mb,16,188,5.386,0.48,us,us6000mjma,2024-05-18T21:23:49.040Z,"126 km SW of Teluk Dalam, Indonesia",earthquake,11.97,3.208,0.219,7,reviewed,us,us
+2024-03-11T08:47:38.340Z,0.0009,98.4934,35,4.2,mb,12,197,1.587,0.38,us,us6000mj4b,2024-05-18T21:23:11.040Z,"99 km SE of Teluk Dalam, Indonesia",earthquake,9.45,1.849,0.264,4,reviewed,us,us
+2024-03-09T00:15:09.901Z,-0.9913,98.3412,10,4.4,mb,28,104,2.405,0.45,us,us6000mj0n,2024-05-15T17:35:02.040Z,"180 km NW of Tuapejat, Indonesia",earthquake,10.2,1.88,0.148,13,reviewed,us,us
+2024-03-06T03:41:56.121Z,-3.2215,102.1651,84.089,4.3,mb,15,119,1.379,0.25,us,us6000mig6,2024-05-15T17:35:05.040Z,"48 km NW of Curup, Indonesia",earthquake,8.86,7.062,0.188,8,reviewed,us,us
+2024-03-01T18:39:26.377Z,0.4993,98.4902,50.726,4.9,mb,153,44,1.215,0.78,us,us6000mg5q,2024-05-10T21:25:57.040Z,"76 km E of Teluk Dalam, Indonesia",earthquake,3.26,5.495,0.049,137,reviewed,us,us
+2024-03-01T02:00:59.565Z,1.3908,99.0655,117.302,4.4,mb,47,88,1.302,0.75,us,us6000mfyy,2024-05-10T21:25:56.040Z,"22 km W of Padangsidempuan, Indonesia",earthquake,6.95,6.672,0.098,31,reviewed,us,us
+2024-02-28T02:28:11.737Z,1.0956,98.7388,86.439,4.7,mb,57,59,1.181,0.56,us,us6000mfjf,2024-05-10T21:25:55.040Z,"67 km WSW of Padangsidempuan, Indonesia",earthquake,5.8,4.929,0.074,55,reviewed,us,us
+2024-02-25T17:33:48.562Z,0.5112,98.5291,53.895,4.6,mb,70,122,1.236,0.73,us,us7000m1iw,2024-05-02T15:50:14.040Z,"81 km E of Teluk Dalam, Indonesia",earthquake,4.44,7.373,0.068,64,reviewed,us,us
+2024-02-23T07:46:26.679Z,-0.6873,98.4764,19.996,5.3,mww,119,60,2.173,0.78,us,us7000m114,2024-05-02T15:50:13.040Z,"158 km SSE of Teluk Dalam, Indonesia",earthquake,7.97,4.149,0.093,11,reviewed,us,us
+2024-02-19T14:48:54.277Z,-1.3008,100.0173,44.214,4.1,mb,15,120,3.557,0.48,us,us7000m13w,2024-05-02T15:50:13.040Z,"54 km SW of Padang, Indonesia",earthquake,5.39,9.351,0.261,4,reviewed,us,us
+2024-02-16T08:22:48.050Z,2.1009,97.8425,57.79,4.4,mb,25,132,0.835,0.5,us,us7000m0kp,2024-04-24T14:42:06.040Z,"21 km SSE of Singkil, Indonesia",earthquake,6.91,8.403,0.139,15,reviewed,us,us
+2024-02-11T13:39:06.583Z,1.6583,99.5612,172.256,4.2,mb,39,80,1.21,0.97,us,us7000lyg4,2024-04-20T19:35:37.040Z,"44 km NE of Padangsidempuan, Indonesia",earthquake,5.58,6.038,0.098,29,reviewed,us,us
+2024-02-09T10:31:27.378Z,2.1497,97.6124,43.304,4,mb,10,162,0.841,0.52,us,us7000lz6w,2024-04-20T19:34:36.040Z,"24 km SW of Singkil, Indonesia",earthquake,7.97,4.945,0.299,3,reviewed,us,us
+2024-02-06T00:03:55.087Z,-3.2977,101.5268,68.868,4.4,mb,24,182,1.774,0.46,us,us7000ly14,2024-04-20T19:33:12.040Z,"99 km NW of Bengkulu, Indonesia",earthquake,7.96,9.082,0.178,9,reviewed,us,us
+2024-02-05T00:52:22.869Z,-2.152,100.4749,51.246,5,mww,214,26,3.308,0.59,us,us7000lx01,2024-04-20T19:32:47.040Z,"99 km E of Tuapejat, Indonesia",earthquake,7.19,4.572,0.098,10,reviewed,us,us
+2024-02-04T16:32:25.831Z,1.8745,98.9652,121.898,4.7,mb,68,90,0.815,0.74,us,us7000lwye,2024-04-13T19:37:46.040Z,"25 km NE of Sibolga, Indonesia",earthquake,6.96,5.83,0.068,65,reviewed,us,us
+2024-02-04T07:32:46.622Z,1.1678,96.8715,10,4.1,mb,20,76,0.717,0.75,us,us7000lxtm,2024-04-13T19:37:23.040Z,"83 km W of Gunungsitoli, Indonesia",earthquake,6.56,1.891,0.166,11,reviewed,us,us
+2024-01-30T00:13:43.883Z,0.2214,97.5058,24.214,4.2,mb,15,204,1.077,0.69,us,us7000lwe2,2024-04-13T19:27:21.040Z,"51 km SW of Teluk Dalam, Indonesia",earthquake,11.45,7.301,0.237,5,reviewed,us,us
+2024-01-27T16:35:40.140Z,0.2129,97.1941,10,4.2,mb,24,107,1.149,0.68,us,us7000lvug,2024-03-30T22:35:16.040Z,"78 km WSW of Teluk Dalam, Indonesia",earthquake,6.83,1.888,0.176,13,reviewed,us,us
+2024-01-24T03:58:55.498Z,-3.3874,100.4953,26.641,4.2,mb,18,192,2.638,0.77,us,us7000lur7,2024-03-30T22:34:56.040Z,"177 km SW of Sungai Penuh, Indonesia",earthquake,7.4,7.762,0.176,9,reviewed,us,us
+2024-01-23T09:05:01.768Z,-1.5186,100.5675,88.018,4.6,mb,27,154,3.695,0.49,us,us7000lu4p,2024-03-30T22:34:10.040Z,"67 km SSE of Padang, Indonesia",earthquake,9.22,8.17,0.165,12,reviewed,us,us
+2024-01-20T16:35:40.192Z,-0.2108,100.8363,194.62,4.4,mb,15,141,3.591,0.41,us,us7000lu02,2024-03-29T17:37:57.040Z,"22 km E of Payakumbuh, Indonesia",earthquake,6.44,9.778,0.268,4,reviewed,us,us
+2024-01-18T22:05:35.793Z,-0.4098,99.1052,55.463,4.6,mb,49,152,3.088,0.65,us,us6000m4jq,2024-03-29T17:37:53.040Z,"115 km WNW of Pariaman, Indonesia",earthquake,7.93,3.667,0.085,41,reviewed,us,us
+2024-01-13T12:22:55.103Z,2.2353,96.3526,25.087,4,mb,15,201,1.533,0.8,us,us6000m4qe,2024-03-16T19:01:12.040Z,"27 km S of Sinabang, Indonesia",earthquake,8.25,5.188,0.231,6,reviewed,us,us
+2024-01-10T01:12:45.749Z,0.0817,96.6557,10,4.3,mb,30,181,1.523,0.64,us,us6000m4fy,2024-03-16T19:00:52.040Z,"138 km WSW of Teluk Dalam, Indonesia",earthquake,4.45,1.894,0.143,14,reviewed,us,us
+2024-01-09T04:45:06.777Z,0.0777,96.5636,10,5.1,mb,73,42,1.583,0.68,us,us6000m2n7,2024-03-16T19:00:08.040Z,"148 km WSW of Teluk Dalam, Indonesia",earthquake,9.06,1.77,0.06,90,reviewed,us,us
+2024-01-08T09:51:30.178Z,-2.284,99.6708,17.148,5.2,mb,88,116,3.874,1.06,us,us6000m2fs,2024-03-16T19:00:00.040Z,"29 km SSE of Tuapejat, Indonesia",earthquake,8.65,3.923,0.059,95,reviewed,us,us
+2024-01-03T19:11:18.148Z,0.708,100.474,222.317,4.3,mb,74,107,2.508,0.91,us,us6000m1i2,2024-03-09T21:39:06.040Z,"98 km WSW of Balai Pungut, Indonesia",earthquake,5.82,7.011,0.07,58,reviewed,us,us
+2023-12-23T10:26:19.787Z,-0.6691,99.1213,44.262,4.2,mb,22,141,2.496,0.35,us,us6000m1p0,2024-02-27T22:56:58.040Z,"111 km W of Pariaman, Indonesia",earthquake,7.6,7.756,0.176,10,reviewed,us,us
+2023-12-21T23:10:44.392Z,-2.0431,102.1594,214.656,4,mb,20,125,2.435,0.32,us,us6000m1gt,2024-02-27T22:56:57.040Z,"61 km S of Muara Bungo, Indonesia",earthquake,10.47,7.703,0.173,9,reviewed,us,us
+2023-12-16T06:45:55.913Z,-0.3273,98.8494,51.179,5,mww,140,69,3.002,0.66,us,us7000ljgg,2024-02-17T22:43:12.040Z,"145 km WNW of Pariaman, Indonesia",earthquake,7.92,6.109,0.093,11,reviewed,us,us
+2023-12-13T11:08:55.961Z,2.0407,96.7775,29.597,4.5,mb,24,182,2.24,0.81,us,us7000lk2p,2024-02-17T22:43:13.040Z,"65 km SE of Sinabang, Indonesia",earthquake,8.62,5.107,0.151,13,reviewed,us,us
+2023-12-11T10:16:39.909Z,-0.4441,101.3587,255.387,5,mb,104,39,3.335,0.8,us,us7000li28,2024-02-17T22:43:06.040Z,"51 km ENE of Sijunjung, Indonesia",earthquake,7.94,4.935,0.043,172,reviewed,us,us
+2023-12-08T09:03:41.352Z,-2.6009,99.9941,35.243,4.6,mb,34,74,3.434,0.36,us,us7000liwj,2024-02-10T23:47:42.040Z,"77 km SE of Tuapejat, Indonesia",earthquake,9.34,7.512,0.122,20,reviewed,us,us
+2023-12-06T13:20:59.785Z,-2.9481,102.9623,237.734,4.3,mb,18,143,1.403,0.35,us,us7000liep,2024-02-10T23:47:38.040Z,"39 km NNE of Lubuklinggau, Indonesia",earthquake,9.44,5.304,0.153,12,reviewed,us,us
+2023-12-02T13:42:04.550Z,-3.4668,102.0368,116.82,4.8,mb,57,99,1.276,1.01,us,us7000lfeq,2024-02-06T21:53:58.040Z,"44 km NW of Bengkulu, Indonesia",earthquake,8.64,3.673,0.077,52,reviewed,us,us
+2023-12-01T23:10:35.063Z,1.2747,97.1712,29.552,4,mb,16,190,2.248,0.39,us,us7000lgpz,2024-02-06T21:54:00.040Z,"49 km W of Gunungsitoli, Indonesia",earthquake,13.18,8.615,0.258,4,reviewed,us,us
+2023-11-18T10:01:33.920Z,-2.9945,100.0625,23.026,4.9,mb,51,181,3.19,0.63,us,us6000lpaw,2024-01-26T16:37:52.040Z,"119 km SSE of Tuapejat, Indonesia",earthquake,7.28,5.24,0.079,54,reviewed,us,us
+2023-11-15T05:11:04.546Z,-3.5315,101.4988,56.133,4.8,mb,72,70,1.671,0.55,us,us6000lnhf,2024-01-26T16:37:42.040Z,"90 km WNW of Bengkulu, Indonesia",earthquake,7.2,5.511,0.078,51,reviewed,us,us
+2023-11-12T17:23:32.715Z,2.3163,98.9944,149.632,4.2,mb,20,162,0.382,0.5,us,us6000lnwa,2024-01-26T16:37:46.040Z,"38 km S of Parapat, Indonesia",earthquake,12.77,4.878,0.186,8,reviewed,us,us
+2023-11-11T20:13:02.825Z,-3.4734,101.5887,56.319,4.4,mb,31,130,1.624,0.53,us,us6000lnun,2024-01-13T23:09:50.040Z,"83 km WNW of Bengkulu, Indonesia",earthquake,12.33,8.104,0.134,16,reviewed,us,us
+2023-11-10T23:48:22.283Z,-2.3504,100.9821,79.567,4.3,mb,26,103,2.806,0.44,us,us6000lnll,2024-01-13T23:09:45.040Z,"55 km SW of Sungai Penuh, Indonesia",earthquake,10.05,3.223,0.178,9,reviewed,us,us
+2023-11-10T22:56:49.829Z,0.2929,97.6456,10,4.4,mb,18,183,2.705,0.18,us,us6000lnlh,2024-01-13T23:09:44.040Z,"35 km SSW of Teluk Dalam, Indonesia",earthquake,13.25,1.764,0.219,6,reviewed,us,us
+2023-11-07T03:30:11.981Z,0.7822,97.1517,10,3.9,mb,13,192,0.669,0.79,us,us7000la41,2024-01-13T23:11:13.040Z,"76 km SW of Gunungsitoli, Indonesia",earthquake,5.56,1.93,0.193,7,reviewed,us,us
+2023-11-04T00:56:53.364Z,1.8004,97.7446,48.064,4.5,mb,34,171,1.475,0.3,us,us7000l9v1,2024-01-10T06:01:53.040Z,"54 km S of Singkil, Indonesia",earthquake,9.37,7.035,0.15,13,reviewed,us,us
+2023-10-30T19:15:08.582Z,-3.72,99.4865,10,4.4,mb,64,70,3.519,0.83,us,us7000l7le,2024-01-10T06:01:18.040Z,"187 km S of Tuapejat, Indonesia",earthquake,9.46,1.825,0.092,34,reviewed,us,us
+2023-10-22T14:23:06.652Z,0.4566,98.343,36.191,4.7,mb,35,88,1.139,0.9,us,us6000lhba,2024-01-04T04:21:52.040Z,"61 km ESE of Teluk Dalam, Indonesia",earthquake,7.02,5.436,0.102,29,reviewed,us,us
+2023-10-20T18:01:37.260Z,-0.6961,98.4562,20.764,4.8,mb,107,62,2.173,0.84,us,us6000lgzn,2023-12-26T21:24:48.040Z,"158 km SSE of Teluk Dalam, Indonesia",earthquake,7.83,4.14,0.067,77,reviewed,us,us
+2023-10-20T08:45:44.462Z,1.3441,96.8835,10,4.5,mb,27,234,0.693,0.51,us,us6000lgvc,2023-12-26T21:24:43.040Z,"81 km W of Gunungsitoli, Indonesia",earthquake,8.25,1.987,0.128,18,reviewed,us,us
+2023-10-16T02:43:49.437Z,-4.2089,100.1931,10,4.3,mb,20,106,2.759,0.29,us,us6000lgwm,2023-12-26T21:24:44.040Z,"234 km W of Bengkulu, Indonesia",earthquake,12.09,1.767,0.201,7,reviewed,us,us
+2023-10-15T19:59:36.529Z,-3.6264,101.8627,72.465,4.3,mb,29,138,1.312,0.47,us,us6000lgv3,2023-12-26T21:24:43.040Z,"48 km WNW of Bengkulu, Indonesia",earthquake,6.88,7.752,0.137,15,reviewed,us,us
+2023-10-13T07:27:00.291Z,0.1625,97.2016,10,4.1,mb,21,204,1.194,0.26,us,us6000lgjv,2023-12-16T22:13:10.040Z,"80 km SW of Teluk Dalam, Indonesia",earthquake,10.58,1.967,0.174,9,reviewed,us,us
+2023-10-07T08:06:21.016Z,-0.2866,97.4413,10,4.7,mb,34,186,1.586,0.57,us,us6000ldq6,2023-12-14T21:26:55.040Z,"103 km SSW of Teluk Dalam, Indonesia",earthquake,10.07,1.945,0.113,24,reviewed,us,us
+2023-10-03T04:14:23.726Z,-0.5248,97.9255,10,4.4,mb,38,180,1.85,0.76,us,us6000lcel,2023-12-14T21:26:51.040Z,"122 km S of Teluk Dalam, Indonesia",earthquake,9.27,1.906,0.13,17,reviewed,us,us
+2023-09-28T03:56:00.797Z,1.9903,97.4814,50.637,4.6,mb,28,137,0.688,0.48,us,us6000lcjm,2023-12-09T22:00:42.040Z,"47 km SW of Singkil, Indonesia",earthquake,6.98,3.114,0.173,10,reviewed,us,us
+2023-09-26T17:25:07.262Z,-2.0649,99.9114,40.184,4.4,mb,40,133,4.829,0.69,us,us6000lay2,2023-12-09T22:00:40.040Z,"36 km E of Tuapejat, Indonesia",earthquake,5.35,7.46,0.103,31,reviewed,us,us
+2023-09-24T01:27:34.795Z,1.9095,96.9269,33.273,5.2,mb,87,40,2.142,0.67,us,us7000kxr1,2023-12-09T22:00:44.040Z,"87 km SE of Sinabang, Indonesia",earthquake,8.8,4.108,0.052,123,reviewed,us,us
+2023-09-21T04:07:05.613Z,0.2972,98.4256,29.383,4.6,mb,35,178,1.312,0.67,us,us7000kx1b,2023-12-02T23:01:09.040Z,"75 km ESE of Teluk Dalam, Indonesia",earthquake,10.97,6.951,0.119,21,reviewed,us,us
+2023-09-11T18:23:36.019Z,2.0247,98.9876,137.197,4,mb,27,95,0.669,1.17,us,us7000kvy7,2023-11-18T22:29:35.040Z,"38 km NE of Sibolga, Indonesia",earthquake,7.32,4.863,0.164,10,reviewed,us,us
+2023-09-10T03:55:20.148Z,0.8842,97.0238,10,4.5,mb,29,152,0.691,0.75,us,us7000kvrg,2023-11-18T22:29:34.040Z,"79 km SW of Gunungsitoli, Indonesia",earthquake,6.1,1.903,0.171,10,reviewed,us,us
+2023-09-09T17:30:59.692Z,1.6033,99.7384,172.239,4.5,mb,77,42,1.356,0.59,us,us7000kumr,2023-11-17T19:47:52.040Z,"49 km S of Bandar, Indonesia",earthquake,6.78,4.724,0.077,57,reviewed,us,us
+2023-09-05T00:19:06.075Z,-2.2387,99.9712,35,4.1,mb,19,102,3.65,0.43,us,us7000ku9x,2023-11-17T19:47:51.040Z,"48 km ESE of Tuapejat, Indonesia",earthquake,6.42,1.919,0.186,8,reviewed,us,us
+2023-09-04T04:50:21.746Z,-3.5143,101.6098,78.282,4.2,mb,15,182,1.584,0.59,us,us7000ku8r,2023-11-17T19:47:51.040Z,"79 km WNW of Bengkulu, Indonesia",earthquake,11.04,8.081,0.235,5,reviewed,us,us
+2023-09-02T11:24:59.352Z,-2.7139,102.0854,150.707,4.1,mb,14,159,1.852,0.31,us,us7000ktyg,2023-11-04T21:36:32.040Z,"96 km NNW of Curup, Indonesia",earthquake,9.34,10.952,0.213,6,reviewed,us,us
+2023-08-18T13:05:07.195Z,-1.0936,100.3617,101.989,4.1,mb,22,130,3.665,0.37,us,us7000kqqi,2023-10-27T21:39:05.040Z,"15 km S of Padang, Indonesia",earthquake,5.34,8.488,0.151,12,reviewed,us,us
+2023-08-11T11:05:01.341Z,-0.0828,97.3384,18.123,4.2,mb,19,205,1.398,0.85,us,us7000kp86,2023-10-17T22:01:30.040Z,"89 km SW of Teluk Dalam, Indonesia",earthquake,10.61,7.01,0.175,9,reviewed,us,us
+2023-08-10T23:59:09.663Z,-0.1253,97.2984,10,4.5,mb,47,94,1.446,0.4,us,us6000kz5p,2023-10-17T22:01:29.040Z,"95 km SW of Teluk Dalam, Indonesia",earthquake,9.26,1.9,0.107,26,reviewed,us,us
+2023-08-10T22:49:03.884Z,0.0989,97.3088,10,4.5,mb,33,180,1.226,0.55,us,us6000kz5i,2023-10-17T22:01:29.040Z,"76 km SW of Teluk Dalam, Indonesia",earthquake,8.42,1.903,0.131,17,reviewed,us,us
+2023-08-09T23:26:01.647Z,-3.1166,101.1695,52.426,4.9,mb,87,66,2.169,0.48,us,us6000kyys,2023-10-17T22:01:29.040Z,"119 km SSW of Sungai Penuh, Indonesia",earthquake,8,5.818,0.069,66,reviewed,us,us
+2023-08-09T23:18:35.870Z,-2.4641,101.1067,76.873,4.5,mb,75,41,2.637,0.44,us,us6000kyyq,2023-10-17T22:01:29.040Z,"55 km SW of Sungai Penuh, Indonesia",earthquake,7.1,4.859,0.074,54,reviewed,us,us
+2023-08-08T15:30:54.712Z,-4.2168,101.9884,66.983,4.9,mb,80,76,0.975,0.65,us,us6000kyng,2023-10-17T22:01:28.040Z,"55 km SW of Bengkulu, Indonesia",earthquake,8.76,3.381,0.076,54,reviewed,us,us
+2023-08-04T19:16:55.952Z,1.3184,97.0931,31.95,4.6,mb,61,60,0.483,0.62,us,us6000kxxy,2023-10-07T21:38:58.040Z,"58 km W of Gunungsitoli, Indonesia",earthquake,6.08,4.914,0.085,46,reviewed,us,us
+2023-08-04T09:15:00.149Z,-0.4407,101.3782,10.012,3.9,ml,5,136,3.318,0.15,us,us7000kp4y,2023-10-07T21:39:02.040Z,"53 km ENE of Sijunjung, Indonesia",earthquake,9.72,8.428,0.128,8,reviewed,us,us
+2023-07-22T20:27:35.695Z,-2.0959,99.8654,34.244,4.4,mb,33,186,3.818,0.72,us,us7000khp0,2023-09-28T21:34:13.040Z,"31 km ESE of Tuapejat, Indonesia",earthquake,4.14,6.237,0.126,18,reviewed,us,us
+2023-07-18T18:56:01.562Z,-2.1636,101.952,205.428,4.1,mb,51,88,2.401,0.76,us,us7000kgmf,2023-09-28T21:33:44.040Z,"63 km E of Sungai Penuh, Indonesia",earthquake,11.06,7.115,0.095,33,reviewed,us,us
+2023-07-11T06:32:24.196Z,-1.4794,98.9512,10,4.4,mb,25,140,3.088,0.55,us,us7000kgu1,2023-09-16T19:16:21.040Z,"93 km NW of Tuapejat, Indonesia",earthquake,7.18,1.921,0.143,14,reviewed,us,us
+2023-07-05T18:31:09.948Z,-0.0806,97.3847,10,4.3,mb,25,108,1.388,0.64,us,us7000kfem,2023-09-09T21:55:15.040Z,"85 km SSW of Teluk Dalam, Indonesia",earthquake,9.67,1.917,0.154,12,reviewed,us,us
+2023-07-05T12:07:12.579Z,0.0089,97.2079,10,5.1,mb,49,75,1.338,0.7,us,us7000kff3,2023-09-09T21:55:16.040Z,"91 km SW of Teluk Dalam, Indonesia",earthquake,10.04,1.884,0.096,35,reviewed,us,us
+2023-07-05T12:06:52.969Z,-0.091,97.3276,10,4.8,mb,51,177,1.408,0.61,us,us6000kq79,2023-09-09T21:54:48.040Z,"90 km SW of Teluk Dalam, Indonesia",earthquake,9.34,1.908,0.093,36,reviewed,us,us
+2023-07-05T00:53:27.129Z,-0.1738,97.4082,17.015,4.5,mb,21,139,1.477,0.83,us,us7000kfdw,2023-09-09T21:55:14.040Z,"93 km SSW of Teluk Dalam, Indonesia",earthquake,10.87,4.674,0.181,9,reviewed,us,us
+2023-07-03T18:50:58.924Z,-0.1117,97.2198,10,4.5,mb,42,97,1.45,0.65,us,us6000kpx2,2023-09-09T21:54:42.040Z,"99 km SW of Teluk Dalam, Indonesia",earthquake,5.29,1.87,0.128,18,reviewed,us,us
+2023-07-03T12:47:57.628Z,0.8446,97.0438,15.176,4.1,mb,24,155,0.701,0.51,us,us7000kf3g,2023-09-09T21:55:11.040Z,"80 km SW of Gunungsitoli, Indonesia",earthquake,5.85,5.596,0.158,11,reviewed,us,us
+2023-07-03T05:09:32.991Z,0.1155,97.1833,10,4.3,mb,15,206,1.244,0.41,us,us7000kf2z,2023-09-09T21:55:09.040Z,"85 km SW of Teluk Dalam, Indonesia",earthquake,11.74,1.979,0.216,7,reviewed,us,us
+2023-07-03T04:13:34.552Z,-0.1575,97.3363,10,4.3,mb,12,152,1.471,0.84,us,us7000kf2x,2023-09-09T21:55:09.040Z,"96 km SSW of Teluk Dalam, Indonesia",earthquake,8.98,1.943,0.239,5,reviewed,us,us
+2023-07-02T19:48:12.632Z,0.0138,97.4465,18.578,4.2,mb,18,257,1.288,0.48,us,us7000kew2,2023-09-09T21:55:07.040Z,"73 km SSW of Teluk Dalam, Indonesia",earthquake,12.11,5.289,0.215,6,reviewed,us,us
+2023-07-02T18:32:13.309Z,-0.0973,97.3263,10,4.7,mb,70,91,1.414,0.67,us,us6000kppr,2023-09-09T21:54:37.040Z,"91 km SW of Teluk Dalam, Indonesia",earthquake,4.49,1.866,0.075,54,reviewed,us,us
+2023-07-02T18:17:23.260Z,0.009,97.2781,14.72,4.6,mb,34,173,1.32,0.83,us,us7000kew5,2023-09-09T21:55:08.040Z,"85 km SW of Teluk Dalam, Indonesia",earthquake,10.53,4.64,0.122,20,reviewed,us,us
+2023-07-02T18:15:27.532Z,-0.1909,97.3851,17.755,4.4,mb,20,92,1.497,0.69,us,us7000kewb,2023-09-09T21:55:08.040Z,"96 km SSW of Teluk Dalam, Indonesia",earthquake,10.33,3.952,0.204,7,reviewed,us,us
+2023-07-02T18:13:21.205Z,-0.1034,97.3302,19.818,5.1,mb,114,50,1.419,0.73,us,us6000kppk,2023-09-09T21:54:37.040Z,"Kepulauan Batu, Indonesia",earthquake,8.01,3.352,0.054,111,reviewed,us,us
+2023-06-26T23:58:28.871Z,2.3196,98.9728,173.594,4.4,mb,75,86,3.527,0.41,us,us6000knbp,2023-09-08T14:18:22.040Z,"38 km S of Parapat, Indonesia",earthquake,7.16,6.411,0.071,58,reviewed,us,us
+2023-06-26T10:12:36.013Z,2.1413,98.479,91.467,5.2,mb,109,44,0.707,0.74,us,us7000kb3y,2023-09-08T14:18:42.040Z,"55 km NW of Sibolga, Indonesia",earthquake,6.14,4.438,0.043,178,reviewed,us,us
+2023-06-22T18:59:03.187Z,-4.0001,100.697,10,4.5,mb,42,177,2.281,0.97,us,us7000kaen,2023-08-26T20:54:27.040Z,"southwest of Sumatra, Indonesia",earthquake,8.82,1.916,0.108,25,reviewed,us,us
+2023-06-20T08:39:17.895Z,-0.9713,98.6027,19.993,5.5,mww,142,40,2.482,0.77,us,us7000k9ti,2023-08-26T20:54:24.040Z,"160 km NW of Tuapejat, Indonesia",earthquake,6.81,3.356,0.093,11,reviewed,us,us
+2023-06-20T07:44:51.362Z,-0.9601,98.4763,18.664,4.6,mb,46,93,2.423,0.56,us,us7000k9te,2023-08-26T20:54:24.040Z,"171 km NW of Tuapejat, Indonesia",earthquake,10.23,4.171,0.102,29,reviewed,us,us
+2023-06-20T03:35:26.700Z,1.6912,99.1151,125.241,3.8,mb,10,127,1.015,0.52,us,us6000knmz,2023-08-26T20:54:18.040Z,"37 km E of Sibolga, Indonesia",earthquake,11.11,10.608,0.255,4,reviewed,us,us
+2023-06-09T17:17:29.906Z,-1.2003,98.2138,10,4.6,mb,86,108,2.568,0.57,us,us7000k7gk,2023-08-12T17:15:13.040Z,"178 km WNW of Tuapejat, Indonesia",earthquake,7.92,1.837,0.072,64,reviewed,us,us
+2023-06-07T03:51:52.066Z,0.495,98.8751,71.582,4.3,mb,14,121,1.528,0.72,us,us7000k8ef,2023-08-12T17:15:20.040Z,"107 km SSW of Padangsidempuan, Indonesia",earthquake,9.88,10.143,0.2,7,reviewed,us,us
+2023-06-03T08:51:53.219Z,0.5531,96.5897,10,4.3,mb,20,170,1.236,0.47,us,us7000k7dx,2023-08-05T22:08:02.040Z,"135 km W of Teluk Dalam, Indonesia",earthquake,8.45,1.835,0.161,11,reviewed,us,us
+2023-06-02T14:16:31.599Z,1.8388,99.4829,157.081,4.9,mb,113,48,1.979,0.61,us,us7000k5si,2023-08-05T22:07:47.040Z,"37 km SW of Bandar, Indonesia",earthquake,7.05,5.577,0.045,158,reviewed,us,us
+2023-06-01T23:47:58.293Z,-3.7795,101.4329,48.194,4.2,mb,34,183,1.625,0.52,us,us7000k5n4,2023-08-05T22:07:46.040Z,"92 km W of Bengkulu, Indonesia",earthquake,8.23,9.012,0.115,21,reviewed,us,us
+2023-05-31T10:04:21.482Z,2.3217,96.7774,31.319,4,mb,16,151,1.288,0.51,us,us7000k6tp,2023-08-05T22:07:59.040Z,"47 km ESE of Sinabang, Indonesia",earthquake,9.19,7.122,0.196,7,reviewed,us,us
+2023-05-31T00:58:41.379Z,-0.8752,98.673,21.087,5.1,mb,130,41,2.427,0.65,us,us7000k54v,2024-01-18T20:02:27.894Z,"163 km NW of Tuapejat, Indonesia",earthquake,7.67,3.828,0.055,106,reviewed,us,us
+2023-05-25T22:37:56.280Z,1.2905,97.0344,25.721,4.7,mb,57,89,0.541,0.66,us,us7000k446,2023-07-29T22:00:38.040Z,"64 km W of Gunungsitoli, Indonesia",earthquake,8.98,4.055,0.082,45,reviewed,us,us
+2023-05-24T04:07:43.275Z,-0.7877,98.4891,20.522,4.4,mb,32,114,2.27,0.65,us,us7000k3ef,2023-07-29T22:00:33.040Z,"168 km SSE of Teluk Dalam, Indonesia",earthquake,9.38,3.116,0.155,12,reviewed,us,us
+2023-05-23T10:47:43.063Z,2.0291,96.3192,10,4.4,mb,14,219,1.448,0.28,us,us7000k4zy,2023-07-29T22:00:45.040Z,"50 km S of Sinabang, Indonesia",earthquake,10.27,1.979,0.268,5,reviewed,us,us
+2023-05-14T21:49:40.494Z,2.5012,99.1375,165.669,4.3,mb,69,52,0.287,0.45,us,us6000kbx3,2023-07-24T01:16:54.040Z,"28 km SE of Parapat, Indonesia",earthquake,7.31,4.413,0.077,47,reviewed,us,us
+2023-05-11T14:36:36.909Z,1.2029,97.0828,27.231,5,mb,56,119,0.503,0.88,us,us6000kb41,2023-07-22T19:16:46.040Z,"59 km W of Gunungsitoli, Indonesia",earthquake,7.6,5.525,0.069,67,reviewed,us,us
+2023-04-28T20:46:34.214Z,2.5502,96.6329,35.487,4.8,mb,85,66,2.293,0.57,us,us7000jwt8,2023-07-11T01:45:17.040Z,"Simeulue, Indonesia",earthquake,7.78,6.176,0.062,87,reviewed,us,us
+2023-04-26T20:43:02.390Z,-0.7335,98.591,25.639,5.1,mb,89,44,2.264,0.84,us,us7000jw4k,2023-07-11T01:45:06.040Z,"168 km SSE of Teluk Dalam, Indonesia",earthquake,8.1,3.865,0.057,100,reviewed,us,us
+2023-04-25T03:40:19.873Z,-0.7467,98.8529,35,4.4,mb,21,196,2.404,0.57,us,us7000jxic,2023-07-11T01:45:15.040Z,"141 km W of Pariaman, Indonesia",earthquake,6.7,1.961,0.203,7,reviewed,us,us
+2023-04-24T22:19:15.925Z,-0.9345,98.5221,21.352,5,mb,121,47,2.416,0.47,us,us7000jvnk,2023-07-11T01:45:04.040Z,"169 km NW of Tuapejat, Indonesia",earthquake,6.68,4.221,0.06,89,reviewed,us,us
+2023-04-24T20:00:57.265Z,-0.8082,98.5112,34,7.1,mww,131,34,2.297,0.7,us,us7000jvl3,2023-07-11T01:45:09.040Z,"171 km SSE of Teluk Dalam, Indonesia",earthquake,7.37,1.785,0.062,25,reviewed,us,us
+2023-04-23T05:20:19.011Z,-0.8855,98.5093,20.48,4.1,mb,13,138,2.367,0.21,us,us7000jwnp,2024-01-18T19:51:02.791Z,"174 km NW of Tuapejat, Indonesia",earthquake,6.57,5.785,0.262,4,reviewed,us,us
+2023-04-23T02:50:23.836Z,-0.8876,98.5425,21.092,4.3,mb,21,161,2.382,0.57,us,us7000jwnk,2024-01-18T19:50:56.213Z,"171 km NW of Tuapejat, Indonesia",earthquake,8.7,6.13,0.267,4,reviewed,us,us
+2023-04-22T23:33:52.510Z,-0.8016,98.6029,18.401,5.2,mww,198,48,2.33,0.6,us,us6000k6gl,2023-07-03T02:46:36.040Z,"170 km W of Pariaman, Indonesia",earthquake,7.54,3.561,0.093,11,reviewed,us,us
+2023-04-22T23:11:15.197Z,-1.0392,98.3974,16.274,4.7,mb,62,69,2.468,0.57,us,us6000k6gg,2023-07-03T02:46:36.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,8.27,4.129,0.087,40,reviewed,us,us
+2023-04-22T22:23:56.050Z,-0.8863,98.7009,22.933,4.6,mb,75,50,2.449,0.67,us,us6000k6ga,2023-07-03T02:46:36.040Z,"160 km NW of Tuapejat, Indonesia",earthquake,7,4.075,0.075,53,reviewed,us,us
+2023-04-22T22:21:03.934Z,-1.0031,98.4256,16.515,4.3,mb,27,168,2.444,0.38,us,us7000jwmh,2023-07-03T02:46:36.040Z,"172 km NW of Tuapejat, Indonesia",earthquake,8,4.977,0.153,12,reviewed,us,us
+2023-04-22T21:20:55.405Z,-0.8598,98.5035,22.72,5.2,mb,54,176,2.341,0.46,us,us7000jwml,2023-07-03T02:46:37.040Z,"Kepulauan Batu, Indonesia",earthquake,10.85,5.524,0.115,25,reviewed,us,us
+2023-04-22T21:17:47.741Z,-0.9402,98.4892,20,5.7,mww,138,53,2.409,0.75,us,us6000k6fs,2023-07-03T02:46:37.040Z,"171 km NW of Tuapejat, Indonesia",earthquake,6.9,1.757,0.06,27,reviewed,us,us
+2023-04-22T17:09:44.703Z,-0.7618,98.5942,21,5.8,mww,192,29,2.291,0.81,us,us6000k6eh,2024-01-18T19:50:44.754Z,"170 km W of Pariaman, Indonesia",earthquake,7.24,1.793,0.054,33,reviewed,us,us
+2023-04-20T00:05:13.606Z,-3.9889,100.3129,16.199,4.5,mb,48,174,2.662,0.46,us,us6000k5mv,2023-07-03T02:47:04.040Z,"217 km W of Bengkulu, Indonesia",earthquake,9.55,5.47,0.098,31,reviewed,us,us
+2023-04-19T14:06:17.945Z,-3.9924,100.315,10,4.9,mb,109,119,2.659,0.43,us,us6000k5jl,2023-07-03T02:47:08.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,5.94,1.805,0.067,72,reviewed,us,us
+2023-04-18T22:39:31.391Z,-3.7721,101.8354,61.569,4.5,mb,57,170,1.261,0.66,us,us6000k5eb,2023-07-03T02:47:14.040Z,"47 km W of Bengkulu, Indonesia",earthquake,9.05,8.21,0.086,40,reviewed,us,us
+2023-04-15T18:50:56.493Z,1.1643,96.8375,20.37,4.2,mb,42,107,0.751,0.57,us,us6000k4sb,2023-06-17T21:36:57.040Z,"87 km W of Gunungsitoli, Indonesia",earthquake,6.9,5.776,0.108,28,reviewed,us,us
+2023-04-15T14:16:23.061Z,0.218,96.7089,10,4.4,mb,24,181,1.384,0.42,us,us6000k603,2023-06-17T21:37:03.040Z,"Nias region, Indonesia",earthquake,5.51,1.913,0.144,14,reviewed,us,us
+2023-04-15T04:39:40.671Z,0.9662,99.3803,10,4.4,mb,30,115,1.777,0.66,us,us6000k4ma,2023-06-17T21:36:56.040Z,"47 km SSE of Padangsidempuan, Indonesia",earthquake,5.92,1.846,0.17,10,reviewed,us,us
+2023-04-11T01:09:46.175Z,0.2111,97.5115,10,4.3,mb,23,181,1.087,0.52,us,us6000k5ak,2023-06-17T21:36:59.040Z,"51 km SW of Teluk Dalam, Indonesia",earthquake,6.79,1.95,0.169,11,reviewed,us,us
+2023-04-08T15:40:19.982Z,2.5098,99.0134,158.772,4.4,mb,31,81,1.871,0.63,us,us6000k2vs,2023-06-13T03:12:22.040Z,"19 km SSE of Parapat, Indonesia",earthquake,7.88,8.277,0.098,30,reviewed,us,us
+2023-04-08T05:21:20.060Z,-0.4135,100.4375,9.797,4.2,mb,24,64,3.332,0.97,us,us6000k4ee,2023-06-13T03:12:27.040Z,"southern Sumatra, Indonesia",earthquake,6.22,4.446,0.167,10,reviewed,us,us
+2023-04-03T14:59:41.845Z,0.8388,98.835,84,6.1,mww,145,38,1.341,0.85,us,us6000k1qa,2023-06-27T07:53:37.700Z,"77 km SW of Padangsidempuan, Indonesia",earthquake,5.56,1.521,0.062,25,reviewed,us,us
+2023-03-29T04:52:06.004Z,0.6447,100.0783,174.483,4.2,mb,29,115,2.341,0.42,us,us6000k1rf,2023-06-03T22:06:18.040Z,"110 km NNW of Bukittinggi, Indonesia",earthquake,7.9,7.674,0.127,17,reviewed,us,us
+2023-03-19T19:30:14.517Z,-3.7623,101.8745,63.378,5,mb,105,62,1.231,0.79,us,us7000jlbf,2023-05-26T21:54:06.040Z,"43 km W of Bengkulu, Indonesia",earthquake,8.29,5.578,0.052,117,reviewed,us,us
+2023-03-14T04:38:01.908Z,-2.8431,102.9013,224.239,4.2,mb,26,97,1.508,0.54,us,us7000jkwc,2023-05-20T23:20:34.040Z,"50 km N of Lubuklinggau, Indonesia",earthquake,11.86,7.879,0.137,15,reviewed,us,us
+2023-03-11T04:03:47.848Z,1.9672,97.9366,44.501,5.3,mww,109,55,0.751,0.72,us,us7000jj20,2023-05-15T02:49:16.040Z,"39 km SSE of Singkil, Indonesia",earthquake,8.49,4.61,0.086,13,reviewed,us,us
+2023-03-03T00:36:47.457Z,-3.8512,101.8071,57.716,5,mww,121,41,1.252,0.7,us,us7000jgy8,2023-05-08T02:00:30.040Z,"southern Sumatra, Indonesia",earthquake,7.03,2.991,0.098,10,reviewed,us,us
+2023-03-01T23:05:23.415Z,-1.5655,100.8384,93.325,5,mww,206,28,3.49,0.64,us,us7000jgnz,2023-05-08T02:00:13.040Z,"southern Sumatra, Indonesia",earthquake,6.8,3.021,0.093,11,reviewed,us,us
+2023-02-21T03:50:53.061Z,0.3205,96.6363,10,4.5,mb,47,125,1.355,0.57,us,us6000jqhe,2023-04-29T21:57:20.040Z,"132 km WSW of Teluk Dalam, Indonesia",earthquake,9.15,1.898,0.104,27,reviewed,us,us
+2023-02-20T01:33:30.451Z,1.9113,96.6141,27.722,5,mb,114,90,1.135,0.48,us,us6000jq7k,2023-04-29T21:57:15.040Z,"68 km SSE of Sinabang, Indonesia",earthquake,5.6,4.664,0.056,100,reviewed,us,us
+2023-02-09T03:54:55.508Z,0.4469,100.2393,140.516,4.9,mb,17,105,2.591,0.4,us,us6000jpl2,2023-04-15T21:40:11.040Z,"84 km N of Bukittinggi, Indonesia",earthquake,11.99,8.331,0.177,10,reviewed,us,us
+2023-02-06T09:51:27.268Z,-3.1461,102.0758,114.239,4.3,mb,27,170,1.492,0.81,us,us6000jnsy,2023-04-15T21:40:02.040Z,"61 km NW of Curup, Indonesia",earthquake,13.25,6.742,0.138,15,reviewed,us,us
+2023-01-28T10:24:30.711Z,-3.0656,102.7601,226.048,4.1,mb,28,133,1.301,0.49,us,us6000jmw2,2023-04-11T18:51:50.040Z,"27 km NNW of Lubuklinggau, Indonesia",earthquake,7.88,7.305,0.14,15,reviewed,us,us
+2023-01-27T21:17:33.065Z,1.8846,97.0042,30.946,4.4,mb,30,192,0.812,0.47,us,us6000jm1c,2023-04-11T18:51:48.040Z,"95 km SE of Sinabang, Indonesia",earthquake,7.58,6.35,0.154,12,reviewed,us,us
+2023-01-27T07:12:04.102Z,1.6267,99.4056,170.176,4.3,mb,33,80,1.857,0.64,us,us6000jjmh,2023-04-11T18:51:36.040Z,"31 km NNE of Padangsidempuan, Indonesia",earthquake,7.48,9.04,0.109,24,reviewed,us,us
+2023-01-26T12:20:12.110Z,2.1104,97.8525,63.633,4.2,mb,30,88,0.848,0.41,us,us6000jlzy,2023-04-11T18:51:47.040Z,"20 km SSE of Singkil, Indonesia",earthquake,6.45,7.948,0.141,14,reviewed,us,us
+2023-01-22T00:27:59.938Z,2,98.9801,132.101,4.2,mb,39,95,0.693,0.79,us,us7000j65h,2023-04-11T18:51:51.040Z,"36 km NE of Sibolga, Indonesia",earthquake,6.11,4.732,0.113,22,reviewed,us,us
+2023-01-21T15:55:53.909Z,-2.1553,102.1499,203.741,4.3,mb,47,93,2.334,0.7,us,us7000j636,2023-03-31T19:46:04.040Z,"85 km E of Sungai Penuh, Indonesia",earthquake,5.39,6.317,0.09,35,reviewed,us,us
+2023-01-19T19:05:06.195Z,-0.0559,98.4494,61.761,4.4,mb,19,193,1.609,0.7,us,us6000jji0,2023-03-31T19:43:41.040Z,"Kepulauan Batu, Indonesia",earthquake,4.77,8.545,0.19,8,reviewed,us,us
+2023-01-18T04:06:02.456Z,-0.2132,97.5504,10,4.3,mb,21,184,1.507,0.96,us,us6000jjdq,2023-03-31T19:43:22.040Z,"255 km SSW of Sibolga, Indonesia",earthquake,7.04,1.928,0.153,12,reviewed,us,us
+2023-01-17T04:50:45.368Z,-1.8101,99.6227,35,4.3,mb,21,78,3.709,0.55,us,us6000jj6z,2023-03-31T19:43:15.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,8.11,1.768,0.201,7,reviewed,us,us
+2023-01-15T22:29:58.940Z,1.9837,97.9979,37,6.1,mww,138,32,0.796,0.52,us,us7000j4kr,2023-03-31T19:44:29.040Z,"40 km SE of Singkil, Indonesia",earthquake,6.09,1.851,0.039,63,reviewed,us,us
+2023-01-14T19:28:12.327Z,-3.8072,101.3371,48.613,4.2,mb,24,187,1.706,0.75,us,us7000j6d9,2023-03-20T06:04:05.040Z,"southern Sumatra, Indonesia",earthquake,9.89,4.388,0.175,9,reviewed,us,us
+2023-01-07T06:50:18.161Z,-0.1516,98.4365,30.796,4.3,mb,23,156,1.683,0.81,us,us7000j4xc,2023-03-11T22:51:51.040Z,"193 km SSW of Padangsidempuan, Indonesia",earthquake,5.45,7.403,0.161,11,reviewed,us,us
+2023-01-06T20:47:56.664Z,1.9538,97.841,57.748,4.5,mb,74,108,0.698,0.68,us,us7000j2n0,2023-03-11T22:51:43.040Z,"Nias region, Indonesia",earthquake,5.26,6.69,0.071,63,reviewed,us,us
+2023-01-04T03:22:07.005Z,-1.0394,98.3047,15.181,4.6,mb,41,93,2.439,0.81,us,us7000j1zs,2023-03-11T22:51:38.040Z,"207 km WSW of Pariaman, Indonesia",earthquake,7.66,4.235,0.141,15,reviewed,us,us
+2022-12-30T23:14:37.589Z,-0.1974,97.3179,10,4.4,mb,38,91,1.513,0.69,us,us7000j15a,2023-03-07T19:00:00.040Z,"269 km SW of Sibolga, Indonesia",earthquake,6.74,1.864,0.127,18,reviewed,us,us
+2022-12-30T21:10:36.293Z,1.0694,96.9432,10,4.2,mb,16,205,0.674,0.64,us,us7000j3pg,2023-03-07T19:00:10.040Z,"164 km SW of Singkil, Indonesia",earthquake,4.51,1.947,0.264,4,reviewed,us,us
+2022-12-30T06:47:45.290Z,-0.1964,97.2636,16.955,4.6,mb,42,190,1.523,0.81,us,us7000j10t,2023-03-07T18:59:59.040Z,"272 km SW of Sibolga, Indonesia",earthquake,9.02,5.639,0.114,26,reviewed,us,us
+2022-12-30T05:19:44.350Z,0.8108,99.7314,152.994,4.2,mb,20,92,1.394,0.65,us,us7000j3nv,2023-03-07T19:00:10.040Z,"81 km SE of Padangsidempuan, Indonesia",earthquake,7.61,8.151,0.176,9,reviewed,us,us
+2022-12-30T04:16:55.929Z,-0.2207,97.3016,10,5,mb,69,71,1.539,0.67,us,us7000j0zu,2023-03-07T18:59:59.040Z,"272 km SW of Sibolga, Indonesia",earthquake,7.92,1.808,0.07,67,reviewed,us,us
+2022-12-29T23:26:47.453Z,-0.2127,97.3082,10,5.3,mb,165,40,1.53,0.57,us,us7000j0y6,2023-03-07T18:59:58.040Z,"271 km SW of Sibolga, Indonesia",earthquake,3.61,1.779,0.051,129,reviewed,us,us
+2022-12-28T03:00:24.520Z,-0.4524,97.7174,10,4.2,mb,14,192,1.75,0.74,us,us7000j3f5,2023-03-07T19:00:07.040Z,"266 km SW of Padangsidempuan, Indonesia",earthquake,7.87,1.966,0.199,7,reviewed,us,us
+2022-12-27T19:57:58.962Z,0.5174,99.7456,136.119,4.2,mb,43,68,2.306,0.78,us,us7000j0i1,2023-03-07T18:59:53.040Z,"108 km SSE of Padangsidempuan, Indonesia",earthquake,7.15,7.053,0.098,33,reviewed,us,us
+2022-12-22T03:07:57.286Z,-0.936,98.513,19.868,4.2,mb,19,205,2.414,0.53,us,us7000j23u,2023-02-28T23:06:42.040Z,"182 km W of Pariaman, Indonesia",earthquake,10.69,6.311,0.265,4,reviewed,us,us
+2022-12-20T21:51:18.918Z,-0.0121,96.667,10,4.1,mb,17,185,1.592,0.82,us,us7000j1ve,2023-02-28T23:06:36.040Z,"277 km S of Sinabang, Indonesia",earthquake,5.92,1.934,0.234,5,reviewed,us,us
+2022-12-18T19:07:11.282Z,-2.895,99.3826,10,4.6,mb,67,175,3.852,0.64,us,us6000ja6m,2023-02-28T23:06:27.040Z,"240 km SSW of Padang, Indonesia",earthquake,10.07,1.856,0.086,41,reviewed,us,us
+2022-12-16T21:38:32.699Z,-3.3182,102.9661,190.378,4.4,mb,72,123,1.035,0.52,us,us6000j9ur,2023-02-18T22:04:18.040Z,"11 km ESE of Lubuklinggau, Indonesia",earthquake,7.67,4.3,0.075,52,reviewed,us,us
+2022-12-10T21:40:00.404Z,2.0267,98.9514,6.717,4.4,mwr,104,60,0.663,0.66,us,us6000j8h6,2023-02-18T22:04:02.040Z,"northern Sumatra, Indonesia",earthquake,4.99,4.035,0.08,15,reviewed,us,us
+2022-12-04T21:27:06.745Z,0.9864,96.975,10,4.9,mb,51,131,0.678,0.79,us,us6000j6x2,2023-02-11T23:03:07.040Z,"169 km SSW of Singkil, Indonesia",earthquake,6,1.862,0.073,59,reviewed,us,us
+2022-12-01T00:09:32.052Z,-2.1324,100.6292,75.853,4.3,mb,29,178,3.208,0.53,us,us6000j7d1,2023-02-05T23:25:40.040Z,"85 km W of Sungai Penuh, Indonesia",earthquake,8.9,8.667,0.153,12,reviewed,us,us
+2022-11-27T11:37:26.261Z,-1.697,99.935,39.819,4.3,mb,32,141,2.293,0.62,us,us7000isqv,2023-02-05T23:24:18.040Z,"94 km SSW of Padang, Indonesia",earthquake,8.34,4.609,0.134,16,reviewed,us,us
+2022-11-27T00:45:24.607Z,1.9983,96.5702,25.773,4,mb,28,163,1.219,0.6,us,us6000j634,2023-02-05T23:24:10.040Z,"57 km SSE of Sinabang, Indonesia",earthquake,6.4,6.027,0.15,12,reviewed,us,us
+2022-11-26T00:10:53.818Z,-2.2952,101.9871,167.887,4.2,mb,50,61,2.268,0.5,us,us7000isgj,2023-02-05T23:23:51.040Z,"71 km ESE of Sungai Penuh, Indonesia",earthquake,6.4,6.024,0.105,25,reviewed,us,us
+2022-11-25T13:25:28.946Z,-3.0941,100.9204,45.435,4.4,mb,32,191,2.389,0.29,us,us6000j5th,2023-01-30T06:01:47.040Z,"126 km SSW of Sungai Penuh, Indonesia",earthquake,3.97,10.023,0.134,17,reviewed,us,us
+2022-11-17T22:54:29.932Z,-0.815,97.9889,10,4.1,mb,21,213,2.145,0.72,us,us7000irkc,2024-01-18T17:23:56.855Z,"154 km S of Teluk Dalam, Indonesia",earthquake,10.66,1.664,0.174,9,reviewed,us,us
+2022-11-17T14:04:48.360Z,0.5062,99.6039,133.559,4.2,mb,24,146,1.447,0.48,us,us7000irjv,2023-01-28T19:58:29.040Z,"103 km SSE of Padangsidempuan, Indonesia",earthquake,8.02,8.062,0.159,11,reviewed,us,us
+2022-11-11T11:39:29.162Z,-3.7365,100.5702,10,5,mb,59,72,2.459,0.54,us,us7000ip19,2023-01-21T19:27:21.040Z,"188 km W of Bengkulu, Indonesia",earthquake,8.55,1.875,0.077,54,reviewed,us,us
+2022-11-09T05:57:04.782Z,0.6583,96.9598,10,4.4,mb,21,182,0.889,0.78,us,us7000ipn1,2024-01-18T17:20:21.109Z,"94 km W of Teluk Dalam, Indonesia",earthquake,6.28,1.729,0.19,8,reviewed,us,us
+2022-11-02T04:25:45.785Z,1.6723,99.5751,174.048,4.5,mb,22,109,1.206,0.48,us,us7000in3n,2023-01-12T23:11:36.040Z,"46 km SSW of Bandar, Indonesia",earthquake,8.37,8.298,0.171,10,reviewed,us,us
+2022-10-31T16:40:26.990Z,0.1385,97.6893,23.561,4.1,mb,24,204,1.163,0.56,us,us7000imi3,2023-01-12T23:11:29.040Z,"214 km SW of Sibolga, Indonesia",earthquake,11.96,7.764,0.185,8,reviewed,us,us
+2022-10-31T11:46:15.764Z,-2.5637,100.716,37.936,4.1,mb,26,127,2.861,0.51,us,us7000ilgm,2023-01-12T23:10:46.040Z,"93 km SW of Sungai Penuh, Indonesia",earthquake,8.86,8.798,0.165,11,reviewed,us,us
+2022-10-30T22:21:34.605Z,1.8439,99.5189,179.876,5.2,mww,128,49,1.033,0.68,us,us7000ildh,2023-01-12T23:10:42.040Z,"34 km SW of Bandar, Indonesia",earthquake,6.86,3.945,0.068,21,reviewed,us,us
+2022-10-23T14:00:57.205Z,-0.1947,99.7666,10.522,4.3,mb,26,104,2.649,0.77,us,us7000ikqq,2023-01-03T15:23:43.040Z,"61 km NW of Pariaman, Indonesia",earthquake,9.43,4.479,0.154,14,reviewed,us,us
+2022-10-14T17:40:42.734Z,-3.7635,103.68,11.291,4.3,mb,33,93,0.935,1.25,us,us6000itpt,2022-12-17T22:54:11.040Z,"15 km E of Lahat, Indonesia",earthquake,3.51,4.328,0.129,19,reviewed,us,us
+2022-10-12T03:55:39.645Z,-1.5178,99.8911,40,4.2,mb,24,187,3.635,0.63,us,us6000iujc,2022-12-17T22:54:18.040Z,"81 km SW of Padang, Indonesia",earthquake,11.03,1.988,0.176,9,reviewed,us,us
+2022-10-11T07:53:24.318Z,0.11,98.6187,49.23,4.8,mb,68,48,1.579,0.75,us,us6000isnr,2022-12-17T22:53:53.040Z,"158 km SSW of Padangsidempuan, Indonesia",earthquake,5.55,5.493,0.082,46,reviewed,us,us
+2022-10-10T10:18:38.808Z,1.838,97.8685,59.166,4.8,mb,51,88,0.606,0.72,us,us6000isg3,2022-12-17T22:53:49.040Z,"Nias region, Indonesia",earthquake,6.94,5.942,0.084,44,reviewed,us,us
+2022-10-08T08:26:12.361Z,-1.6143,101.651,220.374,4.2,mb,30,150,3.023,0.58,us,us6000itcj,2022-12-17T22:54:02.040Z,"southern Sumatra, Indonesia",earthquake,9.11,9.515,0.136,15,reviewed,us,us
+2022-10-06T20:00:38.582Z,1.9232,98.8702,3.604,4.9,mb,106,51,0.767,0.72,us,us6000irme,2022-12-10T22:53:36.040Z,"22 km NNE of Sibolga, Indonesia",earthquake,6.85,3.677,0.058,94,reviewed,us,us
+2022-10-06T08:30:56.265Z,1.9828,98.8391,9.596,4.3,mb,28,169,0.711,0.48,us,us6000isz9,2022-12-10T22:54:05.040Z,"27 km NNE of Sibolga, Indonesia",earthquake,9.02,4.895,0.137,16,reviewed,us,us
+2022-10-06T08:14:54.127Z,-3.4193,102.3837,108.524,4,mb,18,168,1.095,0.44,us,us6000isz8,2022-12-10T22:54:05.040Z,"16 km WNW of Curup, Indonesia",earthquake,14.57,7.061,0.173,11,reviewed,us,us
+2022-10-01T13:50:16.128Z,-3.83,101.8367,59.88,4.9,mb,58,95,1.234,0.71,us,us6000ipzr,2022-12-10T22:52:32.040Z,"47 km W of Bengkulu, Indonesia",earthquake,8.23,7.378,0.094,39,reviewed,us,us
+2022-09-30T20:37:38.689Z,2.0209,98.9447,10.098,5,mb,114,50,0.669,0.54,us,us6000ips6,2022-12-03T22:02:54.040Z,"35 km NNE of Sibolga, Indonesia",earthquake,4.32,2.971,0.058,104,reviewed,us,us
+2022-09-30T20:01:58.567Z,2.0284,98.9167,10,4.4,mb,36,94,0.661,0.55,us,us6000irik,2022-12-03T22:03:16.040Z,"northern Sumatra, Indonesia",earthquake,3.95,1.894,0.143,14,reviewed,us,us
+2022-09-30T19:54:28.175Z,2.0517,99.0688,10,4.6,mb,73,53,0.654,0.48,us,us6000irib,2022-12-03T22:03:15.040Z,"47 km NE of Sibolga, Indonesia",earthquake,4.73,1.049,0.084,46,reviewed,us,us
+2022-09-30T19:50:35.495Z,2.2054,98.89,20.955,5,mb,120,45,0.486,0.82,us,us6000iprr,2022-12-03T22:02:54.040Z,"49 km S of Tomok Bolon, Indonesia",earthquake,5.41,3.939,0.058,100,reviewed,us,us
+2022-09-30T19:47:54.118Z,2.0779,98.9937,12.802,4.6,mb,19,103,0.616,1.09,us,us6000irih,2022-12-03T22:03:16.040Z,"44 km NNE of Sibolga, Indonesia",earthquake,3.3,4.768,0.223,6,reviewed,us,us
+2022-09-30T19:28:40.152Z,2.1277,98.9004,18.363,5.9,mww,211,32,0.563,0.8,us,us6000ipri,2023-04-14T21:30:09.645Z,"41 km NNE of Sibolga, Indonesia",earthquake,4.59,1.394,0.052,35,reviewed,us,us
+2022-09-30T07:22:28.940Z,0.0342,96.582,10,4.4,mb,26,204,1.605,0.55,us,us6000ipjp,2022-12-03T22:02:45.040Z,"271 km S of Sinabang, Indonesia",earthquake,7.49,1.822,0.148,13,reviewed,us,us
+2022-09-28T03:46:33.689Z,0.1323,99.9509,10,4.5,mb,38,110,1.106,0.79,us,us6000iqr8,2024-01-18T16:55:24.076Z,"67 km NW of Bukittinggi, Indonesia",earthquake,6.22,1.825,0.157,12,reviewed,us,us
+2022-09-20T22:25:01.390Z,-1.1959,98.5697,19.227,5,mb,70,80,2.675,0.62,us,us7000i9n5,2022-11-26T20:57:47.040Z,"183 km WSW of Pariaman, Indonesia",earthquake,7.3,3.79,0.075,57,reviewed,us,us
+2022-09-20T14:49:01.935Z,1.5991,99.687,182.377,4,mb,19,109,1.328,0.61,us,us6000innm,2022-11-26T20:57:19.040Z,"50 km S of Bandar, Indonesia",earthquake,7.37,8.316,0.195,7,reviewed,us,us
+2022-09-15T15:33:09.702Z,1.69,96.9427,29.935,4.4,mb,52,162,0.74,0.87,us,us7000i8b0,2022-11-19T23:03:18.040Z,"Nias region, Indonesia",earthquake,6.66,5.611,0.098,38,reviewed,us,us
+2022-09-15T15:24:48.972Z,-2.0533,99.6071,19.034,4.8,mww,131,51,2.764,0.71,us,us7000i8az,2022-11-19T23:03:18.040Z,"147 km SW of Padang, Indonesia",earthquake,7.74,3.638,0.103,9,reviewed,us,us
+2022-09-11T18:24:01.404Z,-1.251,98.5818,18.095,4.9,mb,57,118,2.73,0.56,us,us7000i77x,2022-11-19T23:02:40.040Z,"184 km WSW of Pariaman, Indonesia",earthquake,5.24,4.102,0.073,62,reviewed,us,us
+2022-09-11T12:50:23.775Z,0.5152,98.4895,57.869,4.5,mb,52,93,1.204,0.48,us,us7000i76v,2022-11-19T23:02:37.040Z,"129 km SW of Padangsidempuan, Indonesia",earthquake,7.51,7.409,0.087,40,reviewed,us,us
+2022-09-11T06:28:41.254Z,-1.1982,98.5927,19.316,4.3,mb,27,151,2.685,0.63,us,us7000i99p,2022-11-19T23:03:33.040Z,"181 km WSW of Pariaman, Indonesia",earthquake,9.66,4.985,0.148,14,reviewed,us,us
+2022-09-11T03:29:33.484Z,-1.2405,98.466,10,4.4,mb,28,188,2.68,0.82,us,us7000i99r,2022-11-19T23:03:34.040Z,"196 km WSW of Pariaman, Indonesia",earthquake,6.88,1.875,0.189,10,reviewed,us,us
+2022-09-11T02:40:45.618Z,-1.3018,98.596,10,4.4,mb,28,139,2.782,0.85,us,us7000i99l,2022-11-19T23:03:32.040Z,"185 km WSW of Pariaman, Indonesia",earthquake,6.21,1.872,0.189,9,reviewed,us,us
+2022-09-10T23:24:00.499Z,-1.2041,98.618,10,5.7,mb,224,20,2.701,0.67,us,us6000iisl,2022-11-19T23:02:16.040Z,"179 km WSW of Pariaman, Indonesia",earthquake,7.25,1.758,0.043,189,reviewed,us,us
+2022-09-10T23:10:43.721Z,-1.149,98.654,20,6,mww,268,18,2.664,0.61,us,us6000iisb,2022-11-19T23:02:15.040Z,"173 km WSW of Pariaman, Indonesia",earthquake,6.9,1.696,0.05,39,reviewed,us,us
+2022-09-10T06:03:13.955Z,-2.3603,100.6472,50.366,4.6,mb,51,126,2.697,0.49,us,us6000iimq,2024-01-18T16:49:15.229Z,"89 km WSW of Sungai Penuh, Indonesia",earthquake,8.14,7.544,0.098,32,reviewed,us,us
+2022-09-08T08:49:15.754Z,1.4369,96.9974,29.605,4.2,mb,13,195,0.593,0.76,us,us7000i8a9,2022-11-15T19:06:19.040Z,"128 km SW of Singkil, Indonesia",earthquake,10.36,8.007,0.176,11,reviewed,us,us
+2022-09-08T07:58:52.813Z,1.4012,96.967,10,5.1,mww,136,45,0.616,0.49,us,us6000ii32,2022-11-15T19:05:48.040Z,"133 km SW of Singkil, Indonesia",earthquake,4.72,1.78,0.093,11,reviewed,us,us
+2022-09-07T22:26:32.756Z,1.3503,96.8708,10,4.7,mb,80,129,0.706,0.63,us,us6000ihzq,2022-11-15T19:05:47.040Z,"136 km SSE of Sinabang, Indonesia",earthquake,5.65,1.86,0.07,62,reviewed,us,us
+2022-09-07T18:09:35.437Z,-3.19,101.4217,34,5.4,mww,137,39,1.922,0.82,us,us6000ihx6,2022-11-15T19:05:46.040Z,"115 km NW of Bengkulu, Indonesia",earthquake,7.53,1.761,0.093,11,reviewed,us,us
+2022-09-06T21:15:28.452Z,1.8093,99.0127,128.468,4.1,mb,24,53,0.883,0.31,us,us7000i7xw,2022-11-15T19:06:18.040Z,"26 km ENE of Sibolga, Indonesia",earthquake,5.37,2.957,0.144,13,reviewed,us,us
+2022-09-05T01:13:52.256Z,1.7452,99.3869,170.73,4.2,mb,20,167,1.05,0.43,us,us7000i7me,2022-11-15T19:06:15.040Z,"42 km NNE of Padangsidempuan, Indonesia",earthquake,9.94,5.015,0.159,11,reviewed,us,us
+2022-09-03T05:04:13.657Z,-1.2152,98.3192,14.13,4.4,mb,17,152,2.61,0.7,us,us6000iig0,2022-11-15T19:05:52.040Z,"210 km WSW of Pariaman, Indonesia",earthquake,7.73,4.602,0.189,8,reviewed,us,us
+2022-09-02T03:34:23.588Z,2.0763,97.8361,60.247,4.7,mb,42,113,0.81,0.59,us,us7000i4j9,2022-11-06T04:36:08.040Z,"23 km SSE of Singkil, Indonesia",earthquake,6.53,7.601,0.089,38,reviewed,us,us
+2022-08-29T13:09:53.874Z,-0.9764,98.6319,20.899,4.6,mb,25,169,2.499,0.43,us,us7000i5q8,2022-11-06T04:38:02.040Z,"170 km WSW of Pariaman, Indonesia",earthquake,9.28,6.225,0.172,12,reviewed,us,us
+2022-08-29T12:44:19.407Z,-1.1345,98.5391,18.54,4.6,mb,33,151,2.607,0.55,us,us7000i3cc,2022-11-06T04:38:04.040Z,"184 km WSW of Pariaman, Indonesia",earthquake,7.76,5.162,0.136,17,reviewed,us,us
+2022-08-29T12:35:31.548Z,-1.0759,98.619,19.55,4.4,mb,24,148,2.584,0.42,us,us7000i5q6,2022-11-06T04:38:04.040Z,"174 km WSW of Pariaman, Indonesia",earthquake,8.56,3.043,0.169,10,reviewed,us,us
+2022-08-29T11:44:10.775Z,-1.1601,98.5598,19.114,4.4,mb,26,151,2.638,0.39,us,us7000i3c1,2022-11-06T04:38:06.040Z,"183 km WSW of Pariaman, Indonesia",earthquake,7.65,5.071,0.143,14,reviewed,us,us
+2022-08-29T11:28:27.675Z,-1.22,98.4507,16.453,4.4,mb,31,148,2.655,0.28,us,us7000i3c0,2022-11-06T04:38:07.040Z,"197 km WSW of Pariaman, Indonesia",earthquake,9.31,2.575,0.13,17,reviewed,us,us
+2022-08-29T11:11:48.945Z,-1.0575,98.6699,20.596,4.6,mb,40,125,2.588,0.35,us,us7000i3bw,2022-11-06T04:38:07.040Z,"168 km WSW of Pariaman, Indonesia",earthquake,7.15,5.853,0.117,22,reviewed,us,us
+2022-08-29T11:01:11.830Z,-1.018,98.6831,20.73,4.5,mb,38,173,2.559,0.4,us,us7000i3bu,2022-11-06T04:38:09.040Z,"165 km WSW of Pariaman, Indonesia",earthquake,8.04,6.262,0.116,22,reviewed,us,us
+2022-08-29T10:58:14.174Z,-1.2685,98.4948,17.147,4.2,mb,22,139,2.716,0.84,us,us7000i5q1,2022-11-06T04:38:10.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,8.51,4.795,0.263,4,reviewed,us,us
+2022-08-29T03:35:42.369Z,-1.0508,98.5875,17.567,4.7,mb,19,200,2.548,1.02,us,us7000i5ps,2022-11-06T04:38:21.040Z,"177 km WSW of Pariaman, Indonesia",earthquake,9.07,5.607,0.277,5,reviewed,us,us
+2022-08-29T03:29:13.691Z,-0.988,98.6046,17,6.2,mww,118,23,2.498,0.64,us,us7000i38s,2023-03-16T05:38:40.641Z,"173 km WSW of Pariaman, Indonesia",earthquake,6.77,1.603,0.06,27,reviewed,us,us
+2022-08-28T22:34:37.140Z,-1.0173,98.6652,43,5.7,mww,107,26,2.55,0.59,us,us7000i37c,2022-11-06T04:38:30.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,7.34,1.88,0.08,15,reviewed,us,us
+2022-08-28T17:04:39.757Z,-1.0764,98.5483,16.793,4.9,mb,62,47,2.557,0.66,us,us7000i34y,2022-11-06T04:38:41.040Z,"182 km WSW of Pariaman, Indonesia",earthquake,7.58,4.205,0.069,67,reviewed,us,us
+2022-08-22T09:26:53.591Z,-1.1438,100.2556,90.795,4.6,mb,33,132,1.657,0.66,us,us7000i400,2022-11-01T15:14:32.040Z,"24 km SSW of Padang, Indonesia",earthquake,4.82,7.154,0.146,14,reviewed,us,us
+2022-08-20T18:07:58.171Z,-0.0894,96.7345,10,4,mb,12,203,1.619,0.67,us,us7000i3ek,2022-11-01T15:14:28.040Z,"286 km S of Sinabang, Indonesia",earthquake,7.33,1.935,0.259,4,reviewed,us,us
+2022-08-15T17:34:10.499Z,-2.2167,102.204,222.716,4,mb,27,127,2.258,1.03,us,us7000i22l,2022-10-28T02:27:48.040Z,"92 km E of Sungai Penuh, Indonesia",earthquake,10.02,4.057,0.15,12,reviewed,us,us
+2022-08-15T16:35:12.292Z,0.1257,96.586,10,4.9,mb,63,35,1.532,0.87,us,us6000ib44,2022-10-28T02:26:10.040Z,"Nias region, Indonesia",earthquake,6.76,1.082,0.074,58,reviewed,us,us
+2022-08-15T15:51:14.490Z,0.1338,98.3727,26.833,4,mb,19,198,1.409,0.54,us,us7000i230,2022-10-28T02:27:51.040Z,"170 km SW of Padangsidempuan, Indonesia",earthquake,7.27,6.216,0.183,8,reviewed,us,us
+2022-08-15T02:01:38.052Z,-3.311,100.7772,38.021,4.8,mb,66,134,2.411,0.67,us,us6000iawk,2022-10-28T02:26:02.040Z,"154 km SSW of Sungai Penuh, Indonesia",earthquake,5.98,5.764,0.079,49,reviewed,us,us
+2022-08-11T05:19:17.829Z,-3.4254,101.8322,79.103,4.3,mb,16,182,1.456,0.46,us,us6000ic5d,2022-10-21T23:20:26.040Z,"63 km NW of Bengkulu, Indonesia",earthquake,7.94,9.949,0.217,7,reviewed,us,us
+2022-08-09T04:41:10.213Z,-1.9832,100.2649,35,4.7,mb,56,64,2.421,0.67,us,us6000i9a8,2022-10-21T23:19:32.040Z,"114 km S of Padang, Indonesia",earthquake,6.37,1.832,0.104,28,reviewed,us,us
+2022-08-08T20:00:44.130Z,-0.809,99.7163,70.495,4.5,mb,27,130,1.739,0.62,us,us6000ibm0,2022-10-21T23:19:19.040Z,"49 km WSW of Pariaman, Indonesia",earthquake,9.47,4.763,0.15,13,reviewed,us,us
+2022-08-05T15:30:28.644Z,0.9048,97.0472,10,4.1,mb,14,218,0.66,0.92,us,us6000i8e9,2022-10-12T14:50:56.040Z,"173 km SSW of Singkil, Indonesia",earthquake,6.65,1.958,0.197,7,reviewed,us,us
+2022-08-04T17:39:31.516Z,-1.0555,97.3562,10,4.9,mb,103,52,2.354,0.7,us,us6000i83c,2022-10-12T14:50:38.040Z,"southwest of Sumatra, Indonesia",earthquake,4.77,1.81,0.059,93,reviewed,us,us
+2022-08-03T08:47:04.669Z,0.238,96.7086,10,4.1,mb,17,193,1.368,0.66,us,us6000ia9b,2022-10-12T14:51:32.040Z,"250 km S of Sinabang, Indonesia",earthquake,7.14,1.926,0.197,8,reviewed,us,us
+2022-08-03T05:33:16.121Z,0.2113,96.7087,10,4.2,mb,24,132,1.389,0.73,us,us6000ia95,2022-10-12T14:51:30.040Z,"253 km S of Sinabang, Indonesia",earthquake,11.2,1.772,0.176,9,reviewed,us,us
+2022-08-02T10:19:29.673Z,1.6942,99.5329,182.797,4.5,mb,102,60,1.165,0.57,us,us6000i7ev,2022-10-12T14:49:52.040Z,"45 km NE of Padangsidempuan, Indonesia",earthquake,6.03,5.961,0.063,76,reviewed,us,us
+2022-08-02T07:53:07.314Z,0.0627,96.5698,10,4.3,mb,27,74,1.591,0.69,us,us6000ia7a,2022-10-12T14:51:24.040Z,"268 km S of Sinabang, Indonesia",earthquake,10.65,1.859,0.168,10,reviewed,us,us
+2022-08-01T21:17:11.128Z,1.4936,98.9049,111.125,4.6,mb,62,60,1.192,0.55,us,us6000i7ag,2022-10-12T14:49:41.040Z,"30 km SSE of Sibolga, Indonesia",earthquake,5.37,3.995,0.072,57,reviewed,us,us
+2022-07-31T21:45:14.930Z,-0.0067,98.1282,35,4.1,mb,28,92,1.414,0.85,us,us6000i9qc,2022-10-12T14:51:13.040Z,"199 km SW of Padangsidempuan, Indonesia",earthquake,5.4,1.924,0.185,8,reviewed,us,us
+2022-07-24T06:37:40.508Z,0.5829,96.7902,10,4.3,mb,32,163,1.063,0.68,us,us6000i7rs,2022-10-01T22:09:32.040Z,"214 km SSE of Sinabang, Indonesia",earthquake,7.49,1.853,0.122,21,reviewed,us,us
+2022-07-23T15:29:11.132Z,0.5848,100.0142,166.244,4.3,mb,38,46,1.057,0.88,us,us7000hszc,2022-10-01T22:09:45.040Z,"106 km NNW of Bukittinggi, Indonesia",earthquake,7.37,4.348,0.103,27,reviewed,us,us
+2022-07-21T21:41:04.655Z,0.291,98.3067,35,4.9,mb,92,35,1.243,0.88,us,us7000hsiu,2022-09-27T16:57:13.040Z,"161 km SW of Padangsidempuan, Indonesia",earthquake,6.8,1.9,0.053,113,reviewed,us,us
+2022-07-20T00:43:28.307Z,-4.1765,102.073,58.144,4.4,mb,49,70,0.899,0.65,us,us7000hrz6,2022-09-27T16:57:08.040Z,"46 km SSW of Bengkulu, Indonesia",earthquake,8.07,6.503,0.1,29,reviewed,us,us
+2022-07-19T23:46:50.701Z,-4.1438,102.1383,52,5.3,mww,161,26,0.843,0.69,us,us7000hrxy,2022-09-27T16:57:08.040Z,"southern Sumatra, Indonesia",earthquake,7.34,1.873,0.098,10,reviewed,us,us
+2022-07-11T05:07:22.616Z,-0.118,96.5694,10,4.1,mb,15,187,1.734,0.29,us,us6000i3nf,2022-09-24T21:25:58.040Z,"288 km S of Sinabang, Indonesia",earthquake,13.77,1.959,0.262,4,reviewed,us,us
+2022-07-10T09:03:53.648Z,2.4194,99.1304,154.65,4.3,mb,45,71,1.908,0.46,us,us6000i1d4,2022-09-24T21:26:02.040Z,"34 km SE of Parapat, Indonesia",earthquake,3.9,7.3,0.099,29,reviewed,us,us
+2022-07-10T08:53:53.696Z,1.1881,99.4489,8.998,4.3,mb,27,137,1.586,0.63,us,us6000i3gb,2022-09-24T21:26:02.040Z,"28 km SE of Padangsidempuan, Indonesia",earthquake,5.51,4.984,0.168,12,reviewed,us,us
+2022-07-09T08:46:34.101Z,-1.2767,98.3374,10,4.3,mb,16,220,2.674,1.08,us,us6000i2si,2022-09-24T21:26:08.040Z,"211 km WSW of Pariaman, Indonesia",earthquake,8.7,1.9,0.237,6,reviewed,us,us
+2022-07-06T01:34:36.411Z,-2.241,100.7961,55.32,4.7,mb,75,60,2.561,0.59,us,us6000i06d,2022-09-13T06:22:54.040Z,"69 km WSW of Sungai Penuh, Indonesia",earthquake,7.3,6,0.078,50,reviewed,us,us
+2022-07-05T04:53:49.712Z,2.1143,100.107,208.665,4.1,mb,15,131,16.282,0.53,us,us6000i0xb,2022-09-13T06:24:59.040Z,"30 km E of Rantauprapat, Indonesia",earthquake,12.71,10.179,0.158,11,reviewed,us,us
+2022-06-24T18:56:34.197Z,-1.8368,100.4097,50.54,5.1,mb,142,51,2.238,0.88,us,us7000hk0k,2022-08-28T03:21:12.040Z,"98 km S of Padang, Indonesia",earthquake,7,4.9,0.047,150,reviewed,us,us
+2022-06-24T15:08:39.063Z,-2.2605,102.1508,193.47,4.3,mb,35,128,2.235,0.65,us,us7000hjyk,2022-08-28T03:21:08.040Z,"87 km ESE of Sungai Penuh, Indonesia",earthquake,7.7,8,0.119,20,reviewed,us,us
+2022-06-22T06:48:07.428Z,2.0718,96.4335,10,4.9,mb,49,97,1.372,0.5,us,us7000hj8s,2022-08-28T03:20:05.040Z,"45 km S of Sinabang, Indonesia",earthquake,7.6,1.9,0.091,38,reviewed,us,us
+2022-06-21T19:08:15.930Z,2.0127,96.4059,10,5,mww,136,43,1.365,0.75,us,us7000hj2w,2022-08-28T03:19:48.040Z,"Simeulue, Indonesia",earthquake,6.51,1.741,0.083,14,reviewed,us,us
+2022-06-20T05:01:39.694Z,2.2873,96.376,34.92,4.6,mb,68,177,1.546,0.37,us,us7000hin8,2022-08-28T03:19:08.040Z,"Simeulue, Indonesia",earthquake,5.6,5.3,0.078,51,reviewed,us,us
+2022-06-17T22:12:28.034Z,0.1555,96.5882,10,4.4,mb,53,85,1.508,0.76,us,us7000hi8t,2024-01-18T16:38:01.552Z,"142 km WSW of Teluk Dalam, Indonesia",earthquake,8.3,1.9,0.084,41,reviewed,us,us
+2022-05-30T09:49:44.967Z,1.7204,99.5287,173.51,4.6,mb,55,54,1.14,0.66,us,us7000hdk7,2022-08-06T22:13:06.040Z,"43 km SW of Bandar, Indonesia",earthquake,5,5.1,0.082,44,reviewed,us,us
+2022-05-24T08:19:25.459Z,1.2518,97.0365,25.2,4.2,mb,23,200,0.541,0.55,us,us7000hd3s,2022-08-02T19:51:00.040Z,"141 km SW of Singkil, Indonesia",earthquake,11.3,7.3,0.176,11,reviewed,us,us
+2022-05-22T17:38:15.566Z,-0.4777,99.6588,81.85,4.6,mb,49,70,1.595,0.63,us,us6000hn51,2022-08-02T19:50:41.040Z,"53 km WNW of Pariaman, Indonesia",earthquake,4,6.5,0.078,49,reviewed,us,us
+2022-05-12T22:24:19.137Z,-0.7673,98.626,28.91,4.1,mb,18,187,2.31,0.46,us,us6000hm2d,2022-07-22T18:31:00.040Z,"167 km W of Pariaman, Indonesia",earthquake,11.2,7.1,0.197,7,reviewed,us,us
+2022-05-11T18:52:15.548Z,-2.77,103.2352,277.71,4.4,mb,76,51,1.468,0.98,us,us6000hkf4,2022-07-22T18:30:50.040Z,"71 km NE of Lubuklinggau, Indonesia",earthquake,5.9,5.5,0.071,57,reviewed,us,us
+2022-05-08T19:01:56.976Z,-0.8686,98.3536,10,4.4,mb,26,149,2.293,1.08,us,us6000hkww,2022-07-22T18:30:55.040Z,"198 km W of Pariaman, Indonesia",earthquake,9.2,1.9,0.114,22,reviewed,us,us
+2022-04-23T23:44:05.628Z,-2.6417,101.4213,88.38,4.6,mb,51,126,2.293,0.57,us,us6000hfyd,2022-07-05T03:39:52.040Z,"64 km S of Sungai Penuh, Indonesia",earthquake,8.8,7.8,0.098,31,reviewed,us,us
+2022-04-21T20:23:35.317Z,0.4487,96.7619,10,4.9,mb,,53,1.176,0.9,us,us6000hfes,2022-06-26T01:20:40.040Z,"228 km S of Sinabang, Indonesia",earthquake,8,1.8,0.073,59,reviewed,us,us
+2022-04-21T12:28:04.099Z,2.0143,97.8363,48,4.9,mb,,72,0.752,0.79,us,us6000hf95,2022-06-26T01:20:32.040Z,"30 km S of Singkil, Indonesia",earthquake,5.7,5.3,0.071,63,reviewed,us,us
+2022-04-17T20:16:27.924Z,0.583,97.209,10,4.5,mb,,110,0.804,0.77,us,us6000hfkq,2022-06-26T01:18:59.040Z,"199 km SSW of Singkil, Indonesia",earthquake,6.1,1.9,0.113,25,reviewed,us,us
+2022-04-15T23:58:53.307Z,0.674,97.02,10,4.6,mb,,91,0.836,0.58,us,us7000h2ld,2022-06-20T22:08:33.040Z,"197 km SSW of Singkil, Indonesia",earthquake,10.4,1.9,0.132,17,reviewed,us,us
+2022-04-15T21:17:09.977Z,0.6184,97.0596,10,4.7,mb,,127,0.854,0.69,us,us7000h2kq,2022-06-20T22:08:32.040Z,"201 km SSW of Singkil, Indonesia",earthquake,6.9,1.9,0.06,85,reviewed,us,us
+2022-04-09T12:18:42.184Z,0.4188,97.0612,10,4.2,mb,,109,1.018,0.61,us,us7000h1va,2022-06-20T22:08:05.040Z,"221 km SSW of Singkil, Indonesia",earthquake,8.2,1.9,0.176,11,reviewed,us,us
+2022-04-08T13:50:51.617Z,0.5895,97.0885,10,4.4,mb,,124,0.86,0.69,us,us7000h1ud,2022-06-11T20:21:21.040Z,"203 km SSW of Singkil, Indonesia",earthquake,4.7,1.7,0.095,32,reviewed,us,us
+2022-04-07T06:36:40.955Z,-3.9805,102.165,83.02,4.6,mb,,58,0.874,0.42,us,us7000h0b8,2022-06-11T20:21:09.040Z,"22 km SSW of Bengkulu, Indonesia",earthquake,6.7,4.8,0.082,44,reviewed,us,us
+2022-04-06T18:03:36.962Z,0.762,97.008,10,4.8,mb,,48,0.782,0.96,us,us7000h078,2022-06-11T20:21:08.040Z,"189 km SSW of Singkil, Indonesia",earthquake,7.2,1.8,0.07,63,reviewed,us,us
+2022-04-06T00:29:27.841Z,0.6799,97.1097,10,4.3,mb,,188,0.775,0.65,us,us7000h1rj,2022-06-11T20:21:18.040Z,"193 km SSW of Singkil, Indonesia",earthquake,8.7,1.9,0.188,8,reviewed,us,us
+2022-04-05T12:26:57.690Z,-3.4129,99.1467,10,4.2,mb,,169,3.915,0.5,us,us7000h0qm,2022-06-11T20:21:16.040Z,"291 km WSW of Sungai Penuh, Indonesia",earthquake,9.9,1.9,0.236,6,reviewed,us,us
+2022-04-03T18:14:42.591Z,-0.2121,100.6678,47.55,4.3,mb,,78,0.651,1.1,us,us7000h0gi,2022-06-11T20:21:12.040Z,"3 km E of Payakumbuh, Indonesia",earthquake,4.6,7.6,0.125,18,reviewed,us,us
+2022-04-03T13:30:02.249Z,0.7243,99.8612,156.55,4.4,mb,,130,1.242,0.66,us,us7000gzdg,2022-06-11T20:21:00.040Z,"97 km SE of Padangsidempuan, Indonesia",earthquake,7.2,6.3,0.072,58,reviewed,us,us
+2022-04-01T11:54:34.106Z,1.9541,99.1119,140.88,4.8,mb,,60,0.758,0.5,us,us7000gyyr,2022-06-04T20:42:34.040Z,"43 km ENE of Sibolga, Indonesia",earthquake,6.1,5.6,0.056,98,reviewed,us,us
+2022-03-22T06:27:13.611Z,0.431,97.07,10,4.8,mb,,89,1.003,0.57,us,us6000h6l1,2022-05-28T18:35:24.040Z,"220 km SSW of Singkil, Indonesia",earthquake,6.4,1.9,0.076,54,reviewed,us,us
+2022-03-19T01:03:40.204Z,-3.314,102.171,98.76,4.5,mb,,98,1.301,0.72,us,us6000h5x3,2022-05-28T18:35:17.040Z,"42 km WNW of Curup, Indonesia",earthquake,6.7,6.8,0.124,23,reviewed,us,us
+2022-03-18T21:06:30.909Z,-3.6651,101.5566,33.53,4.2,mb,,181,1.557,0.57,us,us7000gwnu,2022-05-27T14:55:46.040Z,"80 km W of Bengkulu, Indonesia",earthquake,9.1,7.5,0.175,9,reviewed,us,us
+2022-03-17T15:10:28.559Z,-0.0838,96.8272,10,4.5,mb,,133,1.568,0.78,us,us6000h6qv,2022-05-27T14:55:43.040Z,"283 km SSW of Singkil, Indonesia",earthquake,8,1.9,0.082,48,reviewed,us,us
+2022-03-16T19:55:00.741Z,0.4971,98.4959,51.51,4.2,mb,,179,1.22,1.12,us,us6000h56z,2022-05-27T14:55:29.040Z,"Nias region, Indonesia",earthquake,9.8,8.2,0.102,27,reviewed,us,us
+2022-03-16T02:44:35.770Z,0.3553,97.5769,28.07,4.2,mb,,196,0.942,0.51,us,us6000h6fw,2022-05-27T14:55:40.040Z,"203 km SW of Sibolga, Indonesia",earthquake,8.2,7.1,0.125,18,reviewed,us,us
+2022-03-15T12:12:32.092Z,-0.5284,98.5948,43.75,5.2,mww,,47,2.086,0.54,us,us6000h4p4,2022-05-27T14:55:26.040Z,"170 km W of Pariaman, Indonesia",earthquake,4.7,6.3,0.075,17,reviewed,us,us
+2022-03-14T15:12:40.701Z,-3.3406,100.8102,39.26,4.2,mb,,162,2.368,0.63,us,us6000h5rv,2022-05-27T14:55:37.040Z,"156 km SSW of Sungai Penuh, Indonesia",earthquake,14.6,9,0.159,11,reviewed,us,us
+2022-03-14T14:12:10.077Z,-0.5434,98.5566,25.09,5.3,mww,,46,2.08,0.64,us,us6000h4ff,2022-05-27T14:55:24.040Z,"174 km W of Pariaman, Indonesia",earthquake,5.6,2.9,0.069,20,reviewed,us,us
+2022-03-13T21:38:43.829Z,-0.6087,98.5291,29.19,5.6,mww,,35,2.125,0.64,us,us6000h49u,2022-05-27T14:55:22.040Z,"177 km W of Pariaman, Indonesia",earthquake,4,3,0.093,11,reviewed,us,us
+2022-03-13T21:37:17.781Z,-0.3635,97.893,10,4.5,mb,,103,1.686,0.52,us,us6000h5hq,2022-05-27T14:55:34.040Z,"246 km SW of Padangsidempuan, Indonesia",earthquake,5.7,1.9,0.18,11,reviewed,us,us
+2022-03-13T21:34:02.761Z,-0.7876,98.5153,10,4.1,mb,,206,2.28,0.65,us,us6000h5gy,2022-05-27T14:55:33.040Z,"179 km W of Pariaman, Indonesia",earthquake,8.8,1.9,0.174,9,reviewed,us,us
+2022-03-13T21:24:11.939Z,-0.8236,98.3589,19.77,4.6,mb,,67,2.253,0.66,us,us6000h5hf,2022-05-27T14:55:34.040Z,"197 km W of Pariaman, Indonesia",earthquake,5.7,4.6,0.126,19,reviewed,us,us
+2022-03-13T21:09:22.258Z,-0.6294,98.6259,28,6.7,mww,,43,2.188,0.92,us,us6000h48e,2022-05-27T14:55:19.040Z,"166 km W of Pariaman, Indonesia",earthquake,5.2,1.8,0.062,25,reviewed,us,us
+2022-03-13T11:32:31.397Z,-4.1284,103.106,117.86,4.5,mb,,89,0.275,0.66,us,us6000h464,2022-05-27T14:55:21.040Z,"19 km SW of Pagar Alam, Indonesia",earthquake,6.5,3.1,0.118,21,reviewed,us,us
+2022-03-13T07:38:28.810Z,-2.2143,100.0686,44.55,4.5,mb,,96,2.703,0.65,us,us6000h45f,2022-05-27T14:55:21.040Z,"143 km SSW of Padang, Indonesia",earthquake,7.1,6.5,0.088,41,reviewed,us,us
+2022-03-09T22:09:31.953Z,-2.293,100.8763,66.18,4.4,mb,,64,2.606,0.71,us,us6000h3f9,2022-05-14T21:52:26.040Z,"62 km WSW of Sungai Penuh, Indonesia",earthquake,4.9,6.3,0.084,41,reviewed,us,us
+2022-03-04T07:08:34.319Z,0.0329,96.6044,10,4.6,mb,,194,1.592,0.54,us,us6000h1zl,2022-05-07T21:32:50.040Z,"271 km S of Sinabang, Indonesia",earthquake,10.7,1.9,0.102,29,reviewed,us,us
+2022-03-03T06:37:03.223Z,0.0636,100.0026,10,4.5,mb,,49,1.069,0.42,us,us6000h1n6,2022-05-07T21:32:45.040Z,"58 km NW of Bukittinggi, Indonesia",earthquake,5.6,1.2,0.096,32,reviewed,us,us
+2022-03-02T04:41:16.535Z,0.1853,100.1306,10,4.2,mb,,67,0.919,1.04,us,us6000h2t6,2022-05-07T21:32:54.040Z,"60 km NNW of Bukittinggi, Indonesia",earthquake,6,1.9,0.176,10,reviewed,us,us
+2022-03-01T15:37:06.152Z,-0.4295,99.1239,66.53,4.5,mb,,135,2.315,1.11,us,us6000h243,2022-05-07T21:32:53.040Z,"112 km W of Pariaman, Indonesia",earthquake,10.9,8,0.144,17,reviewed,us,us
+2022-03-01T01:12:29.509Z,-2.1365,101.877,112.87,4.3,mb,,154,2.457,0.75,us,us6000h23q,2022-05-08T21:48:04.040Z,"54 km E of Sungai Penuh, Indonesia",earthquake,14.3,6.7,0.177,9,reviewed,us,us
+2022-02-26T19:08:15.534Z,0.1069,99.8773,5.13,4.7,mb,,61,1.182,0.61,us,us6000h0e9,2022-05-07T21:32:33.040Z,"71 km NW of Bukittinggi, Indonesia",earthquake,3.8,4.6,0.067,68,reviewed,us,us
+2022-02-25T15:17:21.816Z,0.0531,100.0279,10,4.5,mb,,53,1.047,0.75,us,us6000h058,2022-05-04T13:40:43.040Z,"55 km NW of Bukittinggi, Indonesia",earthquake,6.3,1.9,0.111,24,reviewed,us,us
+2022-02-25T04:06:36.663Z,0.0316,100.071,10,4.9,mb,,55,1.011,0.76,us,us6000gzzy,2022-05-04T13:40:34.040Z,"50 km NW of Bukittinggi, Indonesia",earthquake,4.4,1.8,0.106,31,reviewed,us,us
+2022-02-25T04:02:17.930Z,0.1186,100.0685,10,4.7,mb,,61,0.992,1.12,us,us6000gzzv,2022-05-04T13:40:33.040Z,"58 km NW of Bukittinggi, Indonesia",earthquake,4.8,1.9,0.13,20,reviewed,us,us
+2022-02-25T01:50:42.540Z,-0.2207,100.0582,10,4.2,mb,,168,1.121,0.67,us,us6000h1el,2022-05-04T13:40:30.040Z,"36 km WNW of Bukittinggi, Indonesia",earthquake,5.7,1.8,0.264,5,reviewed,us,us
+2022-02-25T01:42:59.326Z,-0.3419,99.904,10,4.9,mb,,168,1.315,0.94,us,us6000h1eu,2022-05-04T13:40:30.040Z,"38 km NW of Pariaman, Indonesia",earthquake,5.5,1.9,0.251,6,reviewed,us,us
+2022-02-25T01:39:26.554Z,0.219,100.1006,4,6.1,mww,,25,0.945,1.37,us,us6000gzyg,2023-06-27T07:50:39.859Z,"65 km NNW of Bukittinggi, Indonesia",earthquake,5.9,1.7,0.052,35,reviewed,us,us
+2022-02-25T01:35:50.827Z,0.2493,100.0017,10,5,mb,,36,1.04,1.14,us,us6000gzye,2022-05-04T13:40:29.040Z,"74 km NNW of Bukittinggi, Indonesia",earthquake,4.2,1.8,0.072,63,reviewed,us,us
+2022-02-23T20:45:29.134Z,2.2217,97.6447,35,4.1,mb,,156,0.914,0.69,us,us6000h0u2,2022-05-04T13:40:08.040Z,"17 km WSW of Singkil, Indonesia",earthquake,4.9,2,0.261,4,reviewed,us,us
+2022-02-16T07:03:00.834Z,-3.6755,101.4584,47.48,4.1,mb,,202,1.641,0.52,us,us7000gmsp,2022-04-30T14:18:18.040Z,"90 km W of Bengkulu, Indonesia",earthquake,11.5,10.7,0.175,9,reviewed,us,us
+2022-02-15T13:05:38.488Z,1.3933,96.9566,10,4.5,mb,,104,0.625,0.71,us,us7000gl1d,2022-04-30T14:18:15.040Z,"135 km SW of Singkil, Indonesia",earthquake,4.4,1.8,0.099,34,reviewed,us,us
+2022-02-12T15:13:18.125Z,0.9005,97.4683,39.52,4.3,mb,,77,0.414,0.81,us,us7000glnj,2022-04-30T14:18:03.040Z,"157 km SSW of Singkil, Indonesia",earthquake,9.2,6.6,0.109,24,reviewed,us,us
+2022-02-12T09:17:29.432Z,0.3237,96.3796,10,4.5,mb,,121,1.542,0.61,us,us7000glnc,2022-04-30T14:18:01.040Z,"238 km S of Sinabang, Indonesia",earthquake,5.3,1.7,0.205,7,reviewed,us,us
+2022-02-07T08:14:38.248Z,-0.7184,97.1326,10,4.6,mb,,47,2.057,0.35,us,us7000gisq,2022-04-19T17:38:56.040Z,"Kepulauan Batu, Indonesia",earthquake,8,1.8,0.078,49,reviewed,us,us
+2022-02-03T13:24:47.896Z,2.0354,96.5742,40.41,4.7,mb,,82,1.236,0.89,us,us7000gjdn,2022-04-15T17:57:26.040Z,"53 km SSE of Sinabang, Indonesia",earthquake,5,7.9,0.086,41,reviewed,us,us
+2022-02-02T19:29:17.235Z,0.7928,98.5208,59.15,4.7,mb,,57,1.072,0.93,us,us7000gheg,2022-04-15T17:57:14.040Z,"105 km SW of Padangsidempuan, Indonesia",earthquake,6.5,6.3,0.091,37,reviewed,us,us
+2022-02-02T00:30:21.934Z,-0.5225,97.0893,10,4.1,mb,,207,1.878,1.13,us,us7000gj3n,2022-04-15T17:57:25.040Z,"Kepulauan Batu, Indonesia",earthquake,6.2,2,0.174,9,reviewed,us,us
+2022-01-30T07:20:42.321Z,1.867,97.11,30.6,4.1,mb,,192,0.727,0.34,us,us7000ghyh,2022-04-15T17:57:21.040Z,"88 km WSW of Singkil, Indonesia",earthquake,11.8,9.1,0.213,8,reviewed,us,us
+2022-01-21T12:11:13.926Z,-1.9322,102.1505,227.91,4,mb,,143,2.503,0.44,us,us7000gfvw,2022-04-01T17:40:37.040Z,"85 km E of Sungai Penuh, Indonesia",earthquake,7.2,8,0.144,13,reviewed,us,us
+2022-01-19T06:00:32.606Z,-0.7122,99.0987,35,4.6,mb,,186,2.516,1.11,us,us7000gfku,2022-04-01T17:40:35.040Z,"114 km W of Pariaman, Indonesia",earthquake,9.6,2,0.194,11,reviewed,us,us
+2022-01-12T03:17:41.405Z,0.463,96.8611,10,4.6,mb,,158,1.099,0.71,us,us7000gdky,2022-03-19T22:07:50.040Z,"226 km SSW of Singkil, Indonesia",earthquake,7.5,1.9,0.129,18,reviewed,us,us
+2022-01-11T00:26:30.165Z,0.1519,96.7107,10,5.2,mww,,47,1.434,0.81,us,us7000gaqk,2022-03-19T22:07:38.040Z,"260 km S of Sinabang, Indonesia",earthquake,7.1,1.8,0.089,12,reviewed,us,us
+2022-01-04T10:55:40.211Z,-1.5098,99.4714,35,4.5,mb,,198,2.405,0.41,us,us7000gbnx,2022-03-12T22:19:20.040Z,"116 km WSW of Padang, Indonesia",earthquake,10.1,2,0.163,12,reviewed,us,us
+2021-12-30T18:31:32.862Z,0.1856,96.6595,10,4.6,mb,,114,1.439,0.85,us,us7000g80u,2022-03-05T23:10:57.040Z,"255 km S of Sinabang, Indonesia",earthquake,5.7,1.7,0.079,47,reviewed,us,us
+2021-12-30T16:09:36.142Z,-0.3514,98.7661,42.38,4.6,mb,,104,2.03,0.84,us,us7000g801,2022-03-05T23:10:56.040Z,"153 km W of Pariaman, Indonesia",earthquake,7.1,5.8,0.076,58,reviewed,us,us
+2021-12-21T03:10:30.855Z,1.7515,99.5087,178.7,4.1,mb,,103,1.104,0.69,us,us7000g8z0,2022-03-01T16:38:44.040Z,"42 km SW of Bandar, Indonesia",earthquake,9.2,7.6,0.151,12,reviewed,us,us
+2021-12-17T14:38:38.781Z,1.1637,97.5769,19.98,4.3,mb,,195,0.139,0.53,us,us6000gei4,2022-03-01T16:37:09.040Z,"126 km S of Singkil, Indonesia",earthquake,9.1,4.7,0.148,13,reviewed,us,us
+2021-12-13T19:26:05.364Z,0.1813,96.6817,10,4.3,mb,,187,1.429,0.87,us,us6000gbzh,2022-02-24T21:00:35.040Z,"256 km S of Sinabang, Indonesia",earthquake,7.5,1.9,0.109,24,reviewed,us,us
+2021-12-12T22:37:00.619Z,-4.184,101.317,35,4.6,mb,,58,1.643,0.67,us,us6000gbqz,2022-02-24T21:00:24.040Z,"113 km WSW of Bengkulu, Indonesia",earthquake,6.7,1.9,0.08,47,reviewed,us,us
+2021-12-03T09:58:41.139Z,0.4452,96.6539,10,4.1,mb,,197,1.255,0.42,us,us6000gahl,2022-02-12T23:06:47.040Z,"227 km S of Sinabang, Indonesia",earthquake,11,2,0.174,9,reviewed,us,us
+2021-12-03T04:56:44.737Z,-2.0791,100.084,10,4.2,mb,,88,3.654,0.37,us,us6000gahc,2022-02-12T23:06:46.040Z,"128 km SSW of Padang, Indonesia",earthquake,12.3,1.7,0.265,6,reviewed,us,us
+2021-11-29T15:25:44.797Z,-1.3075,99.7371,49.99,4.6,mb,,77,2.08,0.83,us,us6000g8rl,2022-02-05T23:03:56.040Z,"79 km WSW of Padang, Indonesia",earthquake,7.7,7.2,0.092,35,reviewed,us,us
+2021-11-29T15:24:25.907Z,-2.5579,99.5117,10,4.5,mb,,64,3.246,0.62,us,us7000fxzv,2022-02-05T23:04:34.040Z,"201 km SSW of Padang, Indonesia",earthquake,7.5,1.9,0.099,32,reviewed,us,us
+2021-11-28T22:34:41.081Z,0.2788,99.6074,125.88,4.3,mb,,140,1.433,0.73,us,us7000fxu1,2022-02-05T23:04:30.040Z,"106 km NW of Bukittinggi, Indonesia",earthquake,7.5,7.2,0.125,18,reviewed,us,us
+2021-11-26T14:33:53.655Z,-3.8198,101.3726,40.11,4.2,mb,,104,1.668,0.49,us,us6000g887,2022-02-05T23:03:43.040Z,"99 km W of Bengkulu, Indonesia",earthquake,4,9,0.175,10,reviewed,us,us
+2021-11-26T00:41:02.500Z,-3.1708,101.6916,88.82,4.6,mb,,184,1.728,0.88,us,us6000g87m,2022-02-05T23:03:41.040Z,"94 km NW of Bengkulu, Indonesia",earthquake,10.5,10,0.114,23,reviewed,us,us
+2021-11-23T15:29:48.490Z,0.2598,96.5546,10,4.3,mb,,191,1.455,0.62,us,us7000fxaa,2022-01-29T22:56:06.040Z,"246 km S of Sinabang, Indonesia",earthquake,11.3,1.9,0.129,17,reviewed,us,us
+2021-11-23T06:22:18.777Z,1.5955,99.4098,161.98,4.3,mb,,88,1.856,0.62,us,us7000fwdl,2022-01-29T22:55:28.040Z,"28 km NNE of Padangsidempuan, Indonesia",earthquake,6.3,7.5,0.133,16,reviewed,us,us
+2021-11-22T21:13:53.506Z,0.3728,96.6335,10,4.8,mww,,46,1.32,0.73,us,us7000fwac,2022-01-29T22:55:24.040Z,"234 km S of Sinabang, Indonesia",earthquake,5.5,1.8,0.086,13,reviewed,us,us
+2021-11-22T09:01:03.402Z,0.2014,96.8145,10,4.2,mb,,194,1.333,0.46,us,us7000fx94,2022-01-29T22:56:02.040Z,"254 km SSW of Singkil, Indonesia",earthquake,5.2,1.9,0.187,9,reviewed,us,us
+2021-11-21T18:20:53.742Z,-3.4199,101.4466,65.14,4.5,mb,,60,1.771,1.24,us,us7000fx1j,2022-01-29T22:55:58.040Z,"100 km WNW of Bengkulu, Indonesia",earthquake,7.4,6.5,0.121,20,reviewed,us,us
+2021-11-19T15:46:26.682Z,0.1421,96.5942,10,4.4,mb,,62,1.514,0.91,us,us7000fwrj,2022-01-29T22:55:44.040Z,"259 km S of Sinabang, Indonesia",earthquake,7.7,1.9,0.12,20,reviewed,us,us
+2021-11-19T11:16:29.708Z,0.2242,96.701,10,4.9,mb,,136,1.383,0.52,us,us7000fvf6,2022-01-29T22:54:59.040Z,"252 km S of Sinabang, Indonesia",earthquake,5.6,1.9,0.068,69,reviewed,us,us
+2021-11-17T03:30:34.980Z,-3.5754,101.5892,59.84,5,mb,,69,1.57,0.93,us,us7000fuqy,2022-01-22T20:51:57.040Z,"79 km WNW of Bengkulu, Indonesia",earthquake,4.2,6.5,0.072,61,reviewed,us,us
+2021-11-16T17:11:17.572Z,-2.226,102.3492,211.84,4.4,mb,,61,2.205,0.71,us,us7000fukw,2022-01-22T20:51:56.040Z,"108 km E of Sungai Penuh, Indonesia",earthquake,7,5.6,0.066,74,reviewed,us,us
+2021-11-12T10:44:17.100Z,1.2957,98.8933,91.42,5.1,mww,,45,1.317,0.52,us,us7000ftia,2022-01-22T20:51:46.040Z,"43 km WSW of Padangsidempuan, Indonesia",earthquake,6.2,4.5,0.073,18,reviewed,us,us
+2021-11-12T06:33:23.300Z,0.201,98.5221,41.5,4.6,mb,,138,1.447,0.59,us,us7000fth3,2022-01-22T20:51:46.040Z,"154 km SSW of Padangsidempuan, Indonesia",earthquake,4,8,0.147,14,reviewed,us,us
+2021-11-11T08:56:35.498Z,1.3321,99.0562,120.32,4.1,mb,,136,1.359,0.44,us,us7000fulr,2022-01-15T20:51:54.040Z,"24 km WSW of Padangsidempuan, Indonesia",earthquake,10.3,6.7,0.197,8,reviewed,us,us
+2021-11-11T03:13:11.831Z,0.5863,96.6701,10,4.6,mb,,181,1.152,0.58,us,us7000fulm,2022-01-15T20:51:53.040Z,"211 km S of Sinabang, Indonesia",earthquake,10.3,2,0.165,11,reviewed,us,us
+2021-11-10T14:25:17.646Z,1.9401,96.6995,28.47,4.7,mb,,96,1.079,0.46,us,us7000fszd,2022-01-15T20:51:45.040Z,"69 km SSE of Sinabang, Indonesia",earthquake,6.3,2.1,0.065,72,reviewed,us,us
+2021-11-10T07:18:16.058Z,0.2491,96.5784,9.8,4.5,mb,,143,1.446,0.61,us,us7000fucj,2022-01-15T20:51:52.040Z,"247 km S of Sinabang, Indonesia",earthquake,7.6,5.1,0.14,15,reviewed,us,us
+2021-11-07T11:29:02.739Z,0.225,98.5567,43.49,4.4,mb,,139,1.452,0.75,us,us7000fs74,2022-01-15T20:51:38.040Z,"150 km SSW of Padangsidempuan, Indonesia",earthquake,8.5,8.8,0.095,35,reviewed,us,us
+2021-11-05T23:02:25.485Z,0.2129,96.8579,10,4.3,mb,,101,1.299,0.51,us,us7000ft1p,2022-01-15T20:51:46.040Z,"251 km SSW of Singkil, Indonesia",earthquake,7.5,1.9,0.129,17,reviewed,us,us
+2021-11-04T08:08:32.471Z,0.3836,96.754,10,4.5,mb,,197,1.229,0.65,us,us7000fsqq,2022-01-14T17:59:07.040Z,"235 km S of Sinabang, Indonesia",earthquake,6.6,1.9,0.163,11,reviewed,us,us
+2021-11-03T05:09:33.354Z,0.2183,96.5849,10,4.4,mb,,179,1.464,0.44,us,us7000fsm3,2022-01-14T17:59:06.040Z,"251 km S of Sinabang, Indonesia",earthquake,7.6,1.8,0.24,6,reviewed,us,us
+2021-11-03T01:30:21.857Z,0.2152,96.6722,10,4.7,mb,,62,1.409,0.75,us,us7000fr0c,2022-01-14T17:58:56.040Z,"252 km S of Sinabang, Indonesia",earthquake,5.6,1.8,0.076,53,reviewed,us,us
+2021-11-03T00:50:35.771Z,0.9206,98.5198,64.77,5.1,mb,,50,1.018,1.06,us,us7000fqzz,2022-01-14T17:58:55.040Z,"95 km SSW of Sibolga, Indonesia",earthquake,5,5.2,0.054,114,reviewed,us,us
+2021-11-03T00:28:41.524Z,0.1353,96.6902,10,4.3,mb,,112,1.459,0.89,us,us7000fslx,2022-01-14T17:59:05.040Z,"261 km S of Sinabang, Indonesia",earthquake,7.2,1.8,0.114,22,reviewed,us,us
+2021-11-02T20:08:08.188Z,0.2908,96.6509,10,4.4,mb,,133,1.366,0.68,us,us7000frsl,2022-01-14T17:59:05.040Z,"243 km S of Sinabang, Indonesia",earthquake,4.5,1.9,0.099,31,reviewed,us,us
+2021-11-02T19:56:57.760Z,0.1274,96.733,10,4.4,mb,,99,1.44,0.87,us,us7000fqxm,2022-01-14T17:58:55.040Z,"263 km S of Sinabang, Indonesia",earthquake,5.7,1.8,0.085,49,reviewed,us,us
+2021-11-02T18:00:46.788Z,0.1465,96.7287,10,4.3,mb,,164,1.427,0.66,us,us7000frsf,2022-01-14T17:59:05.040Z,"260 km S of Sinabang, Indonesia",earthquake,7.9,1.9,0.116,23,reviewed,us,us
+2021-11-02T15:06:23.297Z,0.3396,96.5751,10,4.3,mb,,187,1.384,0.52,us,us7000frsb,2022-01-14T17:59:04.040Z,"Nias region, Indonesia",earthquake,5.2,1.9,0.123,19,reviewed,us,us
+2021-11-02T14:59:16.825Z,0.1717,96.675,10,4.5,mb,,61,1.44,0.54,us,us7000fqui,2022-01-14T17:58:54.040Z,"257 km S of Sinabang, Indonesia",earthquake,10.3,1.9,0.102,30,reviewed,us,us
+2021-11-02T14:47:48.048Z,0.1448,96.6846,10,4.9,mb,,47,1.455,0.96,us,us7000fque,2022-01-14T17:58:54.040Z,"260 km S of Sinabang, Indonesia",earthquake,4.3,1.8,0.06,91,reviewed,us,us
+2021-11-02T13:39:16.657Z,0.266,96.6246,10,4.9,mww,,34,1.402,0.82,us,us7000fqu4,2022-01-14T17:58:54.040Z,"246 km S of Sinabang, Indonesia",earthquake,3.1,1.8,0.098,10,reviewed,us,us
+2021-11-02T10:50:53.043Z,0.1678,96.7074,10,4.2,mb,,185,1.423,0.5,us,us7000frs7,2022-01-14T17:59:04.040Z,"258 km S of Sinabang, Indonesia",earthquake,5.1,1.9,0.152,12,reviewed,us,us
+2021-11-02T10:04:08.027Z,0.2776,96.6946,10,4.7,mb,,33,1.347,0.47,us,us7000fqt3,2022-01-14T17:58:52.040Z,"246 km S of Sinabang, Indonesia",earthquake,6.9,1.8,0.061,84,reviewed,us,us
+2021-11-02T01:09:56.357Z,0.2312,96.8453,10,4.4,mb,,133,1.291,0.81,us,us7000frrl,2022-01-14T17:59:03.040Z,"250 km SSW of Singkil, Indonesia",earthquake,4.8,1.7,0.144,14,reviewed,us,us
+2021-11-01T21:47:34.488Z,0.298,96.7281,10,4.7,mb,,114,1.31,1.01,us,us7000fqmg,2022-01-14T17:58:51.040Z,"244 km S of Sinabang, Indonesia",earthquake,3.6,1.8,0.073,57,reviewed,us,us
+2021-11-01T21:38:50.837Z,0.2636,96.7476,10,4.2,mb,,73,1.324,1.09,us,us7000frr7,2022-01-14T17:59:03.040Z,"248 km S of Sinabang, Indonesia",earthquake,7.7,1.9,0.105,25,reviewed,us,us
+2021-11-01T21:12:34.842Z,0.2067,96.7147,9.33,4,mb,,164,1.388,0.39,us,us7000frr6,2022-01-14T17:59:03.040Z,"254 km S of Sinabang, Indonesia",earthquake,11.1,4.4,0.231,5,reviewed,us,us
+2021-11-01T20:10:53.928Z,0.3144,96.6779,10,4.4,mb,,144,1.331,1.04,us,us7000fqli,2022-01-14T17:58:51.040Z,"241 km S of Sinabang, Indonesia",earthquake,9.2,1.8,0.101,28,reviewed,us,us
+2021-11-01T18:41:08.219Z,-1.9253,99.6125,35,4.4,mb,,137,2.652,1.01,us,us7000frrd,2022-01-14T17:59:03.040Z,"135 km SW of Padang, Indonesia",earthquake,14.2,2,0.218,8,reviewed,us,us
+2021-11-01T18:38:08.475Z,0.2161,96.7256,10,4.7,mb,,187,1.374,1,us,us7000frrc,2022-01-14T17:59:03.040Z,"253 km S of Sinabang, Indonesia",earthquake,8.7,1.9,0.13,18,reviewed,us,us
+2021-11-01T18:37:59.930Z,0.2528,96.7126,10,4.6,mb,,115,1.354,0.73,us,us7000fqkn,2022-01-14T17:58:51.040Z,"249 km S of Sinabang, Indonesia",earthquake,10.8,1.8,0.081,45,reviewed,us,us
+2021-11-01T17:04:16.557Z,0.2081,96.709,8,6,mww,,17,1.391,1,us,us7000fqjc,2022-01-14T17:58:50.040Z,"253 km S of Sinabang, Indonesia",earthquake,7.2,1.7,0.047,44,reviewed,us,us
+2021-10-30T12:29:39.712Z,0.0302,96.8536,10,4.3,mb,,153,1.456,0.44,us,us7000frf3,2022-01-14T17:59:00.040Z,"270 km SSW of Singkil, Indonesia",earthquake,9.5,1.9,0.113,22,reviewed,us,us
+2021-10-26T17:25:38.829Z,-3.3274,101.6916,44.82,4.3,mb,,159,1.626,0.8,us,us7000fp04,2022-01-08T17:43:03.040Z,"82 km NW of Bengkulu, Indonesia",earthquake,8,7.7,0.1,30,reviewed,us,us
+2021-10-22T17:01:14.209Z,-2.2317,100.8024,58.34,4.3,mb,,176,2.551,0.69,us,us6000fwt1,2022-01-08T17:41:58.040Z,"68 km WSW of Sungai Penuh, Indonesia",earthquake,5.1,7.8,0.107,28,reviewed,us,us
+2021-10-15T19:48:34.333Z,1.4091,97.0429,28.35,4.5,mb,,167,0.542,0.83,us,us6000fv0h,2021-12-25T22:58:36.040Z,"127 km SW of Singkil, Indonesia",earthquake,4.1,3.7,0.081,48,reviewed,us,us
+2021-10-14T17:55:53.099Z,-0.6408,100.6484,10,4.3,mb,,174,1.037,0.77,us,us6000fvxd,2021-12-18T19:59:05.040Z,"17 km N of Solok, Indonesia",earthquake,8.8,1.9,0.187,8,reviewed,us,us
+2021-10-13T16:21:54.790Z,2.4228,97.6487,56.04,4.1,mb,,148,1.113,0.8,us,us6000fvnk,2021-12-18T19:59:02.040Z,"21 km NW of Singkil, Indonesia",earthquake,7.6,10.5,0.261,4,reviewed,us,us
+2021-10-11T22:17:46.474Z,-3.1266,102.2585,114.01,4,mb,,163,1.409,0.84,us,us6000fttx,2021-12-18T19:58:55.040Z,"47 km NW of Curup, Indonesia",earthquake,13.3,11.2,0.164,11,reviewed,us,us
+2021-10-11T19:17:00.270Z,-0.9403,97.4199,10,4.4,mb,,210,2.234,1.08,us,us6000fuwv,2021-12-18T19:58:54.040Z,"Kepulauan Batu, Indonesia",earthquake,14.5,1.8,0.378,3,reviewed,us,us
+2021-10-04T06:20:11.557Z,-2.3568,103.7389,10,4.4,mb,,99,1.101,0.56,us,us6000fsz9,2021-12-10T21:14:21.040Z,"78 km SE of Bejubang Dua, Indonesia",earthquake,4.4,1.9,0.162,11,reviewed,us,us
+2021-10-03T16:24:04.094Z,-1.8709,101.4746,152.12,4.2,mb,,160,2.225,0.62,us,us6000fsp2,2021-12-10T21:14:19.040Z,"22 km NNE of Sungai Penuh, Indonesia",earthquake,9.7,7.8,0.115,22,reviewed,us,us
+2021-09-30T18:54:25.978Z,1.2873,97.5015,21.44,4.1,mb,,163,1.993,1.07,us,us6000fsa5,2021-12-04T14:29:03.040Z,"115 km SSW of Singkil, Indonesia",earthquake,11.2,6.5,0.145,13,reviewed,us,us
+2021-09-28T06:53:24.690Z,1.8117,99.0261,10,4.3,mb,,110,0.882,0.76,us,us7000ff45,2021-12-04T14:30:06.040Z,"28 km ENE of Sibolga, Indonesia",earthquake,4.9,1.8,0.119,20,reviewed,us,us
+2021-09-26T12:00:57.429Z,-2.9818,100.0251,10,4.3,mb,,161,3.229,0.58,us,us6000fqhn,2021-12-04T14:28:35.040Z,"183 km SW of Sungai Penuh, Indonesia",earthquake,6.1,1.9,0.116,23,reviewed,us,us
+2021-09-26T08:59:49.977Z,-2.8568,100.1734,10,4.7,mb,,144,3.153,0.63,us,us7000fekg,2021-12-04T14:29:43.040Z,"161 km WSW of Sungai Penuh, Indonesia",earthquake,7.9,1.9,0.083,47,reviewed,us,us
+2021-09-24T05:49:58.248Z,-0.6387,98.0888,10,4,mb,,205,1.996,0.49,us,us6000fq5w,2021-12-04T14:28:02.040Z,"226 km W of Pariaman, Indonesia",earthquake,10,2,0.232,5,reviewed,us,us
+2021-09-22T23:08:06.561Z,-2.2697,100.715,62.94,4.2,mb,,186,2.598,0.6,us,us7000fewa,2021-12-03T15:02:06.040Z,"78 km WSW of Sungai Penuh, Indonesia",earthquake,8.3,10.7,0.236,5,reviewed,us,us
+2021-09-20T12:26:26.321Z,-1.0037,99.1382,35,4.1,mb,,74,2.315,0.55,us,us7000fe3g,2021-12-03T15:02:02.040Z,"117 km WSW of Pariaman, Indonesia",earthquake,7.4,2,0.151,12,reviewed,us,us
